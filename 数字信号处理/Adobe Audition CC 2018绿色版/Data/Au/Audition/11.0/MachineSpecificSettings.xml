@@ -1,0 +1,13 @@
+
+<Section label="Root" version="1">
+
+  <Section label="Prefs">
+    <Section label="AudioDevice">
+      <KeyVal Key="CurrentDeviceDriverClassID" Type="uint32">1835885856</KeyVal>
+      <KeyVal Key="abe.io.audio.device.inputchannelmap" Type="string">0:100|1:101</KeyVal>
+      <KeyVal Key="abe.io.audio.device.outputchannelmap" Type="string">0:100|1:101</KeyVal>
+      <KeyVal Key="abe.io.audio.settings" Type="string">{"abe.io.audio.classes":[{"abe.io.audio.asio.inputdevicename":"","abe.io.audio.asio.inputdeviceuid":"","abe.io.audio.asio.ioblocksize":512,"abe.io.audio.asio.masterdevice":false,"abe.io.audio.asio.max.ioblocksize":0,"abe.io.audio.asio.min.ioblocksize":0,"abe.io.audio.asio.outputdevicename":"","abe.io.audio.asio.outputdeviceuid":"","abe.io.audio.asio.samplerate":44100,"abe.io.audio.asio.srvalue":[],"abe.io.audio.class.default":false,"abe.io.audio.class.id":1634953583},{"abe.io.audio.class.default":false,"abe.io.audio.class.id":2002875248,"abe.io.audio.wasapi.inputdevicename":"Realtek(R) Audio","abe.io.audio.wasapi.inputdeviceuid":"REALTEK(R) AUDIO","abe.io.audio.wasapi.latency":120,"abe.io.audio.wasapi.masterdevice":false,"abe.io.audio.wasapi.outputdevicename":"Realtek(R) Audio","abe.io.audio.wasapi.outputdeviceuid":"REALTEK(R) AUDIO","abe.io.audio.wasapi.samplerate":48000,"abe.io.audio.wasapi.useexclusivemode":false},{"abe.io.audio.class.default":true,"abe.io.audio.class.id":1835885856,"abe.io.audio.mme.inputdevicename":"外部麦克风 (Realtek(R) Audio)（不工作）","abe.io.audio.mme.inputdeviceuid":"EEA80880-F3A2-4372-B445-0022A1B7EB7C","abe.io.audio.mme.latency":200,"abe.io.audio.mme.masterdevice":false,"abe.io.audio.mme.outputdevicename":"耳机 (Realtek(R) Audio)（不工作）","abe.io.audio.mme.outputdeviceuid":"1ED67B4B-79EF-4CB3-9612-C5BAE3ACDC4B","abe.io.audio.mme.samplerate":48000}],"abe.io.audio.outputonly":false,"abe.io.audio.userdata":{"abe.io.audio.UseDocumentSamplerate":{"type":"bool","value":false}}}</KeyVal>
+    </Section>
+  </Section>
+
+</Section>

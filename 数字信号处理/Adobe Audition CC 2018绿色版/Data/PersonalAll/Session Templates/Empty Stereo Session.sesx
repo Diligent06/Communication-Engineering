@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE sesx>
+<sesx version="1.0">
+
+  <session appVersion="5.0" audioChannelType="stereo" bitDepth="24" duration="1323000" sampleRate="44100">
+    <name>Empty Stereo Session Music.sesx</name>
+    <tracks>
+      <masterTrack automationLaneOpenState="false" id="10000" index="1" select="true" visible="true">
+        <trackParameters trackHeight="134">
+          <name>Master</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="1" type="hardwareOutput"/>
+          <trackInput inputID="-1"/>
+          <component componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009079"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.8161598"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013618"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.0081707"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354063"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.1443486"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Master Gain" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.2296875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.01"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.04"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.16"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.64"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="4"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+      </masterTrack>
+    </tracks>
+    <sessionState ctiPosition="0" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="0"/>
+      <viewState horizontalViewDuration="1323000" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="0"/>
+      <timeFormatState beatsPerBar="4" beatsPerMinute="120.00" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
+    </sessionState>
+    <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.144519, 2011/10/20-18:07:48        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>Adobe Audition CS6 (Macintosh)</xmp:CreatorTool>
+         <xmp:CreateDate>2011-12-01T15:18:38-08:00</xmp:CreateDate>
+         <xmp:MetadataDate>2011-12-07T14:24:38-08:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2011-12-07T14:21:30-08:00</xmp:ModifyDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+         <xmpMM:InstanceID>xmp.iid:03E5B9D6072068118C148898D01BA33E</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:00801174072068118C148898D01BA33E</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:BB2A5C0210206811871F9C027A17AF52</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:BB2A5C0210206811871F9C027A17AF52</stEvt:instanceID>
+                  <stEvt:when>2011-12-01T15:18:38-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:BD2A5C0210206811871F9C027A17AF52</stEvt:instanceID>
+                  <stEvt:when>2011-12-01T15:18:39-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:BE2A5C0210206811871F9C027A17AF52</stEvt:instanceID>
+                  <stEvt:when>2011-12-01T15:18:39-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/;/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C32A5C0210206811871F9C027A17AF52</stEvt:instanceID>
+                  <stEvt:when>2011-12-01T15:19:25-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C42A5C0210206811871F9C027A17AF52</stEvt:instanceID>
+                  <stEvt:when>2011-12-01T15:19:25-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FF7F1174072068118C148898D01BA33E</stEvt:instanceID>
+                  <stEvt:when>2011-12-07T14:21:30-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:00801174072068118C148898D01BA33E</stEvt:instanceID>
+                  <stEvt:when>2011-12-07T14:21:30-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/;/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:02E5B9D6072068118C148898D01BA33E</stEvt:instanceID>
+                  <stEvt:when>2011-12-07T14:24:38-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:03E5B9D6072068118C148898D01BA33E</stEvt:instanceID>
+                  <stEvt:when>2011-12-07T14:24:38-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:FF7F1174072068118C148898D01BA33E</stRef:instanceID>
+            <stRef:documentID>xmp.did:BE2A5C0210206811871F9C027A17AF52</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:BB2A5C0210206811871F9C027A17AF52</stRef:originalDocumentID>
+         </xmpMM:DerivedFrom>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/xml</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
+         <xmpDM:logComment>Audition Template:  Stereo Session with no tracks.  44.1k, 24 bit, Stereo Master.</xmpDM:logComment>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
+                  <xmpDM:trackType>Cue</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpDM:trackName>Subclip Markers</xmpDM:trackName>
+                  <xmpDM:trackType>InOut</xmpDM:trackType>
+                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>]]></xmpMetadata>
+    <clipGroups/>
+    <metronome enabled="false" pattern="downBeat subdivision subdivision subdivision " soundSet="sticks">
+      <metronomeTrack automationLaneOpenState="false" id="0" index="0" select="false" visible="false">
+        <trackParameters trackHeight="55">
+          <name>Metronome</name>
+        </trackParameters>
+        <trackAudioParameters audioChannelType="mono" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
+          <trackOutput outputID="10000" type="trackID"/>
+          <trackInput inputID="-1"/>
+          <component componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="0.5011872"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
+            <parameter index="0" name="Low Shelf Frequency" parameterValue="0.0009079"/>
+            <parameter index="1" name="Low Shelf Gain" parameterValue="0.5"/>
+            <parameter index="2" name="High Shelf Frequency" parameterValue="0.8161598"/>
+            <parameter index="3" name="High Shelf Gain" parameterValue="0.5"/>
+            <parameter index="4" name="EQ Band 1 Center Frequency" parameterValue="0.0013618"/>
+            <parameter index="5" name="EQ Band 1 Q" parameterValue="0.0002"/>
+            <parameter index="6" name="EQ Band 1 Gain" parameterValue="0.5"/>
+            <parameter index="7" name="EQ Band 1 Enable" parameterValue="1"/>
+            <parameter index="8" name="EQ Band 2 Center Frequency" parameterValue="0.0081707"/>
+            <parameter index="9" name="EQ Band 2 Q" parameterValue="0.0002"/>
+            <parameter index="10" name="EQ Band 2 Gain" parameterValue="0.5"/>
+            <parameter index="11" name="EQ Band 2 Enable" parameterValue="1"/>
+            <parameter index="12" name="EQ Band 3 Center Frequency" parameterValue="0.0354063"/>
+            <parameter index="13" name="EQ Band 3 Q" parameterValue="0.0002"/>
+            <parameter index="14" name="EQ Band 3 Gain" parameterValue="0.5"/>
+            <parameter index="15" name="EQ Band 3 Enable" parameterValue="1"/>
+            <parameter index="16" name="EQ Band 4 Center Frequency" parameterValue="0.1443486"/>
+            <parameter index="17" name="EQ Band 4 Q" parameterValue="0.0002"/>
+            <parameter index="18" name="EQ Band 4 Gain" parameterValue="0.5"/>
+            <parameter index="19" name="EQ Band 4 Enable" parameterValue="1"/>
+            <parameter index="20" name="EQ Band 5 Center Frequency" parameterValue="0.580118"/>
+            <parameter index="21" name="EQ Band 5 Q" parameterValue="0.0002"/>
+            <parameter index="22" name="EQ Band 5 Gain" parameterValue="0.5"/>
+            <parameter index="23" name="EQ Band 5 Enable" parameterValue="1"/>
+            <parameter index="24" name="Master Gain" parameterValue="0.6666667"/>
+            <parameter index="25" name="ConstantQ" parameterValue="1"/>
+            <parameter index="26" name="Low Shelf Filter Order" parameterValue="0"/>
+            <parameter index="27" name="High Shelf Filter Order" parameterValue="0"/>
+            <parameter index="28" name="Ultra-Quiet Mode" parameterValue="0"/>
+            <parameter index="29" name="Low Shelf Enable" parameterValue="1"/>
+            <parameter index="30" name="High Shelf Enable" parameterValue="1"/>
+            <parameter index="31" name="Original Sample Rate" parameterValue="0.2296875"/>
+            <parameter index="32" name="EQ Band 1 Bandwidth" parameterValue="0.0025"/>
+            <parameter index="33" name="EQ Band 2 Bandwidth" parameterValue="0.01"/>
+            <parameter index="34" name="EQ Band 3 Bandwidth" parameterValue="0.04"/>
+            <parameter index="35" name="EQ Band 4 Bandwidth" parameterValue="0.16"/>
+            <parameter index="36" name="EQ Band 5 Bandwidth" parameterValue="0.64"/>
+            <parameter index="37" name="High-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="38" name="High-Pass Cutoff Frequency" parameterValue="0"/>
+            <parameter index="39" name="High-Pass Slope" parameterValue="4"/>
+            <parameter index="40" name="Low-Pass Filter Enable" parameterValue="0"/>
+            <parameter index="41" name="Low-Pass Cutoff Frequency" parameterValue="0.906945"/>
+            <parameter index="42" name="Low-Pass Slope" parameterValue="4"/>
+            <parameter index="43" name="Bypass" parameterValue="0"/>
+            <parameter index="44" name="LowGraphRange" parameterValue="1"/>
+          </component>
+        </trackAudioParameters>
+        <editParameter parameterIndex="0" slotIndex="4294967280"/>
+        <sendList>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="0">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="1">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="2">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="3">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="4">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="5">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="6">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="7">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="8">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="9">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="10">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="11">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="12">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="13">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="14">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+          <sendSlot preFader="false" sendOutputID="0" slotIndex="15">
+            <component id="sendComponent" powered="false">
+              <parameter index="0" name="Power On/Off" parameterValue="0"/>
+              <parameter index="1" name="Level" parameterValue="0"/>
+            </component>
+            <component id="sendPan" powered="true"/>
+          </sendSlot>
+        </sendList>
+      </metronomeTrack>
+    </metronome>
+  </session>
+
+  <files/>
+
+  <audioDevice inputID="com_RME_driver_FireWireAudioEngine:8b46e406" outputID="com_RME_driver_FireWireAudioEngine:8b46e406">
+    <inputPort id="1" name="Default Stereo Input"/>
+    <inputPort id="2" name="[01M] Fireface 800 (406) 1"/>
+    <inputPort id="3" name="[02M] Fireface 800 (406) 2"/>
+    <inputPort id="4" name="[03M] Fireface 800 (406) 3"/>
+    <inputPort id="5" name="[04M] Fireface 800 (406) 4"/>
+    <inputPort id="6" name="[05M] Fireface 800 (406) 5"/>
+    <inputPort id="7" name="[06M] Fireface 800 (406) 6"/>
+    <inputPort id="8" name="[07M] Fireface 800 (406) 7"/>
+    <inputPort id="9" name="[08M] Fireface 800 (406) 8"/>
+    <inputPort id="10" name="[09M] Fireface 800 (406) 9"/>
+    <inputPort id="11" name="[10M] Fireface 800 (406) 10"/>
+    <inputPort id="12" name="[11M] Fireface 800 (406) 11"/>
+    <inputPort id="13" name="[12M] Fireface 800 (406) 12"/>
+    <inputPort id="14" name="[13M] Fireface 800 (406) 13"/>
+    <inputPort id="15" name="[14M] Fireface 800 (406) 14"/>
+    <inputPort id="16" name="[15M] Fireface 800 (406) 15"/>
+    <inputPort id="17" name="[16M] Fireface 800 (406) 16"/>
+    <inputPort id="18" name="[17M] Fireface 800 (406) 17"/>
+    <inputPort id="19" name="[18M] Fireface 800 (406) 18"/>
+    <inputPort id="20" name="[19M] Fireface 800 (406) 19"/>
+    <inputPort id="21" name="[20M] Fireface 800 (406) 20"/>
+    <inputPort id="22" name="[21M] Fireface 800 (406) 21"/>
+    <inputPort id="23" name="[22M] Fireface 800 (406) 22"/>
+    <inputPort id="24" name="[23M] Fireface 800 (406) 23"/>
+    <inputPort id="25" name="[24M] Fireface 800 (406) 24"/>
+    <inputPort id="26" name="[25M] Fireface 800 (406) 25"/>
+    <inputPort id="27" name="[26M] Fireface 800 (406) 26"/>
+    <inputPort id="28" name="[27M] Fireface 800 (406) 27"/>
+    <inputPort id="29" name="[28M] Fireface 800 (406) 28"/>
+    <inputPort id="30" name="[01S] Fireface 800 (406) 1"/>
+    <inputPort id="31" name="[03S] Fireface 800 (406) 3"/>
+    <inputPort id="32" name="[05S] Fireface 800 (406) 5"/>
+    <inputPort id="33" name="[07S] Fireface 800 (406) 7"/>
+    <inputPort id="34" name="[09S] Fireface 800 (406) 9"/>
+    <inputPort id="35" name="[11S] Fireface 800 (406) 11"/>
+    <inputPort id="36" name="[13S] Fireface 800 (406) 13"/>
+    <inputPort id="37" name="[15S] Fireface 800 (406) 15"/>
+    <inputPort id="38" name="[17S] Fireface 800 (406) 17"/>
+    <inputPort id="39" name="[19S] Fireface 800 (406) 19"/>
+    <inputPort id="40" name="[21S] Fireface 800 (406) 21"/>
+    <inputPort id="41" name="[23S] Fireface 800 (406) 23"/>
+    <inputPort id="42" name="[25S] Fireface 800 (406) 25"/>
+    <inputPort id="43" name="[27S] Fireface 800 (406) 27"/>
+    <outputPort id="1" name="Default Output"/>
+    <outputPort id="2" name="[01M] Fireface 800 (406) 1"/>
+    <outputPort id="3" name="[02M] Fireface 800 (406) 2"/>
+    <outputPort id="4" name="[03M] Fireface 800 (406) 3"/>
+    <outputPort id="5" name="[04M] Fireface 800 (406) 4"/>
+    <outputPort id="6" name="[05M] Fireface 800 (406) 5"/>
+    <outputPort id="7" name="[06M] Fireface 800 (406) 6"/>
+    <outputPort id="8" name="[07M] Fireface 800 (406) 7"/>
+    <outputPort id="9" name="[08M] Fireface 800 (406) 8"/>
+    <outputPort id="10" name="[09M] Fireface 800 (406) 9"/>
+    <outputPort id="11" name="[10M] Fireface 800 (406) 10"/>
+    <outputPort id="12" name="[11M] Fireface 800 (406) 11"/>
+    <outputPort id="13" name="[12M] Fireface 800 (406) 12"/>
+    <outputPort id="14" name="[13M] Fireface 800 (406) 13"/>
+    <outputPort id="15" name="[14M] Fireface 800 (406) 14"/>
+    <outputPort id="16" name="[15M] Fireface 800 (406) 15"/>
+    <outputPort id="17" name="[16M] Fireface 800 (406) 16"/>
+    <outputPort id="18" name="[17M] Fireface 800 (406) 17"/>
+    <outputPort id="19" name="[18M] Fireface 800 (406) 18"/>
+    <outputPort id="20" name="[19M] Fireface 800 (406) 19"/>
+    <outputPort id="21" name="[20M] Fireface 800 (406) 20"/>
+    <outputPort id="22" name="[21M] Fireface 800 (406) 21"/>
+    <outputPort id="23" name="[22M] Fireface 800 (406) 22"/>
+    <outputPort id="24" name="[23M] Fireface 800 (406) 23"/>
+    <outputPort id="25" name="[24M] Fireface 800 (406) 24"/>
+    <outputPort id="26" name="[25M] Fireface 800 (406) 25"/>
+    <outputPort id="27" name="[26M] Fireface 800 (406) 26"/>
+    <outputPort id="28" name="[27M] Fireface 800 (406) 27"/>
+    <outputPort id="29" name="[28M] Fireface 800 (406) 28"/>
+    <outputPort id="30" name="Default Stereo Output"/>
+    <outputPort id="31" name="[01S] Fireface 800 (406) 1"/>
+    <outputPort id="32" name="[03S] Fireface 800 (406) 3"/>
+    <outputPort id="33" name="[05S] Fireface 800 (406) 5"/>
+    <outputPort id="34" name="[07S] Fireface 800 (406) 7"/>
+    <outputPort id="35" name="[09S] Fireface 800 (406) 9"/>
+    <outputPort id="36" name="[11S] Fireface 800 (406) 11"/>
+    <outputPort id="37" name="[13S] Fireface 800 (406) 13"/>
+    <outputPort id="38" name="[15S] Fireface 800 (406) 15"/>
+    <outputPort id="39" name="[17S] Fireface 800 (406) 17"/>
+    <outputPort id="40" name="[19S] Fireface 800 (406) 19"/>
+    <outputPort id="41" name="[21S] Fireface 800 (406) 21"/>
+    <outputPort id="42" name="[23S] Fireface 800 (406) 23"/>
+    <outputPort id="43" name="[25S] Fireface 800 (406) 25"/>
+    <outputPort id="44" name="[27S] Fireface 800 (406) 27"/>
+    <outputPort id="45" name="Default Surround Output"/>
+  </audioDevice>
+
+</sesx>

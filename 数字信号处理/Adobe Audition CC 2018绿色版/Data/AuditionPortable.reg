@@ -1,0 +1,828 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Sonic]
+@=""
+
+[HKEY_CURRENT_USER\Software\Adobe]
+@=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition]
+@=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0]
+@=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64]
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US]
+"Version"=dword:00000035
+"RegistrationFlags Guid"="0677e2bc-ace4-82df-6077-f45900000028"
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterAIFF.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterAIFF.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000005
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,30,00,39,00,35,00,33,00,32,00,31,00,31,00,35,00,38,00,0a,\
+  00,4d,00,61,00,63,00,69,00,6e,00,74,00,6f,00,73,00,68,00,20,00,f3,97,91,98,\
+  20,00,41,00,49,00,46,00,46,00,20,00,28,00,2a,00,2e,00,61,00,69,00,66,00,2c,\
+  00,2a,00,2e,00,61,00,69,00,66,00,66,00,29,00,0a,00,2a,00,2e,00,41,00,49,00,\
+  46,00,3b,00,2a,00,2e,00,41,00,49,00,46,00,46,00,0a,00,31,00,30,00,39,00,35,\
+  00,33,00,32,00,31,00,31,00,35,00,38,00,0a,00,35,00,37,00,33,00,34,00,38,00,\
+  0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="22949e36-3f22-47ee-9fdf-c5a5efc476eb"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterARRIRAW.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterARRIRAW.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000001
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,30,00,39,00,35,00,39,00,31,00,34,00,30,00,35,00,37,00,0a,\
+  00,41,00,52,00,52,00,49,00,52,00,41,00,57,00,20,00,87,65,f6,4e,20,00,28,00,\
+  2a,00,2e,00,61,00,72,00,69,00,29,00,0a,00,2a,00,2e,00,41,00,52,00,49,00,0a,\
+  00,31,00,30,00,39,00,35,00,39,00,31,00,34,00,30,00,35,00,37,00,0a,00,34,00,\
+  39,00,31,00,36,00,30,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000001
+"ImpCanValidatePrefs"=dword:00000001
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="95708651-fd69-46f8-a80e-6db753c2bf13"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterASND.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterASND.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000001
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,30,00,39,00,35,00,39,00,37,00,38,00,35,00,36,00,34,00,0a,\
+  00,41,00,64,00,6f,00,62,00,65,00,20,00,f0,58,f3,97,87,65,63,68,20,00,28,00,\
+  2a,00,2e,00,61,00,73,00,6e,00,64,00,29,00,0a,00,2a,00,2e,00,41,00,53,00,4e,\
+  00,44,00,0a,00,31,00,30,00,39,00,35,00,39,00,37,00,38,00,35,00,36,00,34,00,\
+  0a,00,35,00,37,00,33,00,34,00,38,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="0293f1f1-173c-4a6d-84b1-e7a289e3e299"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterAVI.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000001
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterAVI.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000001
+"ImpCanTrim"=dword:00000001
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,30,00,39,00,36,00,31,00,37,00,33,00,39,00,31,00,30,00,0a,\
+  00,41,00,56,00,49,00,20,00,71,5f,47,72,20,00,28,00,2a,00,2e,00,61,00,76,00,\
+  69,00,29,00,0a,00,2a,00,2e,00,41,00,56,00,49,00,0a,00,31,00,30,00,39,00,36,\
+  00,31,00,37,00,33,00,39,00,31,00,30,00,0a,00,35,00,38,00,38,00,38,00,38,00,\
+  0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="00000000-0000-0000-0000-000000000000"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterBarsAndTone.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterBarsAndTone.prm\Importer]
+"ImpDrawType"=dword:42415253
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000001
+"ImpNoFile"=dword:00000001
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000001
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,31,00,31,00,31,00,35,00,37,00,37,00,31,00,37,00,31,00,0a,\
+  00,72,82,61,67,8c,54,72,82,03,8c,0a,00,0a,00,31,00,31,00,31,00,31,00,35,00,\
+  37,00,37,00,31,00,37,00,31,00,0a,00,30,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="dcba5cc3-72e1-45d4-bcc5-e5b41b0c229c"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"Name"="色条和色调"
+"MatchName"="ADBE Bars and Tone"
+"Kind"=dword:494d5054
+"Version"=dword:0000000f
+"SpecVersion"=dword:0000000d
+"Category"="Importer"
+"EntryPoint"=""
+"ReservedInfo"=dword:00000000
+"HasPipl"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterDirectShow.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterDirectShow.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,30,00,39,00,36,00,31,00,37,00,33,00,39,00,31,00,30,00,0a,\
+  00,41,00,56,00,49,00,20,00,71,5f,47,72,20,00,28,00,2a,00,2e,00,61,00,76,00,\
+  69,00,29,00,0a,00,2a,00,2e,00,41,00,56,00,49,00,0a,00,31,00,30,00,39,00,36,\
+  00,31,00,37,00,33,00,39,00,31,00,30,00,0a,00,35,00,37,00,33,00,35,00,32,00,\
+  0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="e4621ae5-536b-41ae-ab18-210e43d4fe8b"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterF65.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterF65.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000014
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,33,00,39,00,37,00,38,00,39,00,39,00,36,00,30,00,37,00,0a,\
+  00,53,00,6f,00,6e,00,79,00,52,00,41,00,57,00,20,00,46,00,6f,00,72,00,6d,00,\
+  61,00,74,00,20,00,28,00,2a,00,2e,00,6d,00,78,00,66,00,29,00,0a,00,2a,00,2e,\
+  00,4d,00,58,00,46,00,0a,00,31,00,33,00,39,00,37,00,38,00,39,00,39,00,36,00,\
+  30,00,37,00,0a,00,34,00,39,00,31,00,36,00,30,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000001
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="534c917a-378c-4944-b062-94a9c126b4ae"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterFastMPEG.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterFastMPEG.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000001
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:0000000a
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,32,00,39,00,37,00,31,00,30,00,36,00,32,00,34,00,37,00,0a,\
+  00,4d,00,50,00,45,00,47,00,20,00,71,5f,47,72,20,00,28,00,2a,00,2e,00,6d,00,\
+  70,00,65,00,67,00,2c,00,2a,00,2e,00,6d,00,70,00,65,00,2c,00,2a,00,2e,00,6d,\
+  00,70,00,76,00,2c,00,2a,00,2e,00,6d,00,32,00,70,00,2c,00,2a,00,2e,00,6d,00,\
+  70,00,61,00,2c,00,2a,00,2e,00,6d,00,70,00,32,00,2c,00,2a,00,2e,00,6d,00,70,\
+  00,67,00,2c,00,2a,00,2e,00,6d,00,32,00,76,00,2c,00,2a,00,2e,00,6d,00,32,00,\
+  61,00,2c,00,2a,00,2e,00,6d,00,32,00,74,00,2c,00,2a,00,2e,00,74,00,73,00,29,\
+  00,0a,00,2a,00,2e,00,4d,00,50,00,45,00,47,00,3b,00,2a,00,2e,00,4d,00,50,00,\
+  45,00,3b,00,2a,00,2e,00,4d,00,50,00,56,00,3b,00,2a,00,2e,00,4d,00,32,00,50,\
+  00,3b,00,2a,00,2e,00,4d,00,50,00,41,00,3b,00,2a,00,2e,00,4d,00,50,00,32,00,\
+  3b,00,2a,00,2e,00,4d,00,50,00,47,00,3b,00,2a,00,2e,00,4d,00,32,00,56,00,3b,\
+  00,2a,00,2e,00,4d,00,32,00,41,00,3b,00,2a,00,2e,00,4d,00,32,00,54,00,3b,00,\
+  2a,00,2e,00,54,00,53,00,0a,00,31,00,32,00,39,00,37,00,31,00,30,00,36,00,32,\
+  00,34,00,37,00,0a,00,35,00,37,00,38,00,36,00,34,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"="mpgindex"
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="2a3c55a4-c1f0-414b-9d33-7b439b4ffbf4"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterHDBarsAndTone.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterHDBarsAndTone.prm\Importer]
+"ImpDrawType"=dword:48444252
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000001
+"ImpNoFile"=dword:00000001
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000001
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,32,00,31,00,32,00,34,00,33,00,32,00,39,00,37,00,38,00,0a,\
+  00,48,00,44,00,20,00,72,82,61,67,8c,54,72,82,03,8c,0a,00,0a,00,31,00,32,00,\
+  31,00,32,00,34,00,33,00,32,00,39,00,37,00,38,00,0a,00,30,00,0a,00,30,00,0a,\
+  00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="e9a5e5d4-1253-4606-b4ee-f9446fce37ea"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"Name"="HD 色条和色调"
+"MatchName"="ADBE HD Bars and Tone"
+"Kind"=dword:494d5054
+"Version"=dword:0000000f
+"SpecVersion"=dword:0000000d
+"Category"="Importer"
+"EntryPoint"=""
+"ReservedInfo"=dword:00000000
+"HasPipl"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterLeader.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterLeader.prm\Importer]
+"ImpDrawType"=dword:4c454144
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000001
+"ImpNoFile"=dword:00000001
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000001
+"ImpCanSetupOnDblClick"=dword:00000001
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,32,00,37,00,39,00,36,00,30,00,37,00,31,00,30,00,38,00,0a,\
+  00,1a,90,28,75,12,50,a1,8b,f6,65,11,54,fc,5b,0a,00,0a,00,31,00,32,00,37,00,\
+  39,00,36,00,30,00,37,00,31,00,30,00,38,00,0a,00,30,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="d490007e-3bfb-4f63-a357-119729bb2085"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"Pipl"=hex:00,00,00,00,09,00,00,00,4d,49,42,38,64,6e,69,6b,00,00,00,00,04,00,\
+  00,00,54,50,4d,49,4d,49,42,38,65,6d,61,6e,00,00,00,00,48,00,00,00,45,24,24,\
+  24,2f,4d,65,64,69,61,43,6f,72,65,2f,49,6d,70,6f,72,74,65,72,73,2f,49,6d,70,\
+  6f,72,74,65,72,4c,65,61,64,65,72,2f,4e,61,6d,65,3d,55,6e,69,76,65,72,73,61,\
+  6c,20,43,6f,75,6e,74,69,6e,67,20,4c,65,61,64,65,72,00,00,4d,49,42,38,41,4e,\
+  4d,65,00,00,00,00,10,00,00,00,0e,41,44,42,45,20,55,6e,69,76,65,72,73,61,6c,\
+  00,4d,49,42,38,67,74,61,63,00,00,00,00,0c,00,00,00,08,49,6d,70,6f,72,74,65,\
+  72,00,00,00,4d,49,42,38,36,38,78,77,00,00,00,00,0c,00,00,00,78,46,69,6c,74,\
+  65,72,00,00,00,00,00,4d,49,42,38,34,36,36,38,00,00,00,00,0c,00,00,00,78,46,\
+  69,6c,74,65,72,00,00,00,00,00,4d,49,42,38,52,56,50,65,00,00,00,00,04,00,00,\
+  00,02,00,01,00,4d,49,42,38,52,56,53,65,00,00,00,00,04,00,00,00,03,00,00,00,\
+  4d,49,42,38,52,45,56,65,00,00,00,00,04,00,00,00,00,00,30,00
+"HasPipl"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMP3.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMP3.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,32,00,39,00,37,00,31,00,30,00,36,00,32,00,34,00,37,00,0a,\
+  00,4d,00,50,00,33,00,20,00,f3,97,91,98,20,00,28,00,2a,00,2e,00,6d,00,70,00,\
+  33,00,2c,00,2a,00,2e,00,6d,00,70,00,65,00,67,00,2c,00,2a,00,2e,00,6d,00,70,\
+  00,67,00,2c,00,2a,00,2e,00,6d,00,70,00,61,00,2c,00,2a,00,2e,00,6d,00,70,00,\
+  65,00,29,00,0a,00,2a,00,2e,00,4d,00,50,00,33,00,3b,00,2a,00,2e,00,4d,00,50,\
+  00,45,00,47,00,3b,00,2a,00,2e,00,4d,00,50,00,47,00,3b,00,2a,00,2e,00,4d,00,\
+  50,00,41,00,3b,00,2a,00,2e,00,4d,00,50,00,45,00,0a,00,31,00,32,00,39,00,37,\
+  00,31,00,30,00,36,00,32,00,34,00,37,00,0a,00,35,00,37,00,33,00,34,00,38,00,\
+  0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="78c61425-27a6-40f4-a58d-14ab1aca63e3"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMPEG.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMPEG.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000001
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000001
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,32,00,39,00,37,00,31,00,30,00,36,00,32,00,34,00,37,00,0a,\
+  00,4d,00,50,00,45,00,47,00,20,00,71,5f,47,72,20,00,28,00,2a,00,2e,00,61,00,\
+  63,00,33,00,2c,00,2a,00,2e,00,76,00,6f,00,62,00,2c,00,2a,00,2e,00,6d,00,32,\
+  00,76,00,2c,00,2a,00,2e,00,6d,00,32,00,70,00,2c,00,2a,00,2e,00,6d,00,32,00,\
+  61,00,2c,00,2a,00,2e,00,6d,00,70,00,65,00,67,00,2c,00,2a,00,2e,00,6d,00,6f,\
+  00,64,00,2c,00,2a,00,2e,00,6d,00,70,00,67,00,2c,00,2a,00,2e,00,6d,00,32,00,\
+  74,00,2c,00,2a,00,2e,00,6d,00,32,00,74,00,73,00,2c,00,2a,00,2e,00,6d,00,74,\
+  00,73,00,2c,00,2a,00,2e,00,74,00,73,00,2c,00,2a,00,2e,00,6d,00,31,00,61,00,\
+  2c,00,2a,00,2e,00,6d,00,70,00,34,00,2c,00,2a,00,2e,00,6d,00,34,00,76,00,2c,\
+  00,2a,00,2e,00,6d,00,6f,00,76,00,2c,00,2a,00,2e,00,6d,00,34,00,61,00,2c,00,\
+  2a,00,2e,00,6d,00,70,00,61,00,2c,00,2a,00,2e,00,6d,00,70,00,32,00,2c,00,2a,\
+  00,2e,00,6d,00,70,00,65,00,2c,00,2a,00,2e,00,6d,00,70,00,76,00,2c,00,2a,00,\
+  2e,00,6d,00,31,00,76,00,2c,00,2a,00,2e,00,61,00,76,00,63,00,2c,00,2a,00,2e,\
+  00,32,00,36,00,34,00,2c,00,2a,00,2e,00,61,00,61,00,63,00,2c,00,2a,00,2e,00,\
+  33,00,67,00,70,00,2c,00,2a,00,2e,00,33,00,67,00,70,00,70,00,2c,00,2a,00,2e,\
+  00,66,00,34,00,76,00,2c,00,2a,00,2e,00,6d,00,6b,00,76,00,29,00,0a,00,2a,00,\
+  2e,00,41,00,43,00,33,00,3b,00,2a,00,2e,00,56,00,4f,00,42,00,3b,00,2a,00,2e,\
+  00,4d,00,32,00,56,00,3b,00,2a,00,2e,00,4d,00,32,00,50,00,3b,00,2a,00,2e,00,\
+  4d,00,32,00,41,00,3b,00,2a,00,2e,00,4d,00,50,00,45,00,47,00,3b,00,2a,00,2e,\
+  00,4d,00,4f,00,44,00,3b,00,2a,00,2e,00,4d,00,50,00,47,00,3b,00,2a,00,2e,00,\
+  4d,00,32,00,54,00,3b,00,2a,00,2e,00,4d,00,32,00,54,00,53,00,3b,00,2a,00,2e,\
+  00,4d,00,54,00,53,00,3b,00,2a,00,2e,00,54,00,53,00,3b,00,2a,00,2e,00,4d,00,\
+  31,00,41,00,3b,00,2a,00,2e,00,4d,00,50,00,34,00,3b,00,2a,00,2e,00,4d,00,34,\
+  00,56,00,3b,00,2a,00,2e,00,4d,00,4f,00,56,00,3b,00,2a,00,2e,00,4d,00,34,00,\
+  41,00,3b,00,2a,00,2e,00,4d,00,50,00,41,00,3b,00,2a,00,2e,00,4d,00,50,00,32,\
+  00,3b,00,2a,00,2e,00,4d,00,50,00,45,00,3b,00,2a,00,2e,00,4d,00,50,00,56,00,\
+  3b,00,2a,00,2e,00,4d,00,31,00,56,00,3b,00,2a,00,2e,00,41,00,56,00,43,00,3b,\
+  00,2a,00,2e,00,32,00,36,00,34,00,3b,00,2a,00,2e,00,41,00,41,00,43,00,3b,00,\
+  2a,00,2e,00,33,00,47,00,50,00,3b,00,2a,00,2e,00,33,00,47,00,50,00,50,00,3b,\
+  00,2a,00,2e,00,46,00,34,00,56,00,3b,00,2a,00,2e,00,4d,00,4b,00,56,00,0a,00,\
+  31,00,32,00,39,00,37,00,31,00,30,00,36,00,32,00,34,00,37,00,0a,00,35,00,37,\
+  00,33,00,35,00,32,00,0a,00,36,00,0a,00,31,00,32,00,39,00,37,00,31,00,30,00,\
+  36,00,32,00,34,00,37,00,0a,00,4d,00,50,00,45,00,47,00,20,00,32,00,0a,00,31,\
+  00,32,00,31,00,31,00,32,00,35,00,30,00,32,00,32,00,38,00,0a,00,41,00,56,00,\
+  43,00,20,00,48,00,44,00,0a,00,31,00,32,00,39,00,37,00,31,00,30,00,36,00,37,\
+  00,33,00,37,00,0a,00,4d,00,50,00,45,00,47,00,20,00,31,00,0a,00,31,00,32,00,\
+  39,00,37,00,31,00,30,00,36,00,37,00,34,00,30,00,0a,00,4d,00,50,00,45,00,47,\
+  00,34,00,0a,00,31,00,30,00,39,00,36,00,31,00,37,00,32,00,33,00,33,00,37,00,\
+  0a,00,48,00,2e,00,32,00,36,00,34,00,0a,00,31,00,32,00,31,00,32,00,35,00,30,\
+  00,33,00,36,00,31,00,39,00,0a,00,48,00,45,00,56,00,43,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000001
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000001
+"ImpFileInfoVersion"="f70f5c52-39c0-412d-a88f-0ee1538b1048"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMXF.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterMXF.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000019
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,32,00,39,00,37,00,36,00,33,00,30,00,37,00,39,00,30,00,0a,\
+  00,4d,00,58,00,46,00,20,00,28,00,2a,00,2e,00,6d,00,78,00,66,00,29,00,0a,00,\
+  2a,00,2e,00,4d,00,58,00,46,00,0a,00,31,00,32,00,39,00,37,00,36,00,33,00,30,\
+  00,37,00,39,00,30,00,0a,00,34,00,39,00,31,00,36,00,30,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000001
+"ImpCanValidatePrefs"=dword:00000001
+"ImpHasPersistentData"=dword:00000001
+"ImpFileInfoVersion"="4072031c-755c-4980-b341-3c1a693e1385"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterQuickTime.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterQuickTime.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000001
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,32,00,39,00,39,00,31,00,34,00,38,00,36,00,33,00,30,00,0a,\
+  00,51,00,75,00,69,00,63,00,6b,00,54,00,69,00,6d,00,65,00,20,00,71,5f,47,72,\
+  20,00,28,00,2a,00,2e,00,6d,00,6f,00,76,00,2c,00,2a,00,2e,00,33,00,67,00,70,\
+  00,2c,00,2a,00,2e,00,33,00,67,00,32,00,2c,00,2a,00,2e,00,6d,00,70,00,34,00,\
+  2c,00,2a,00,2e,00,6d,00,34,00,76,00,2c,00,2a,00,2e,00,6d,00,34,00,61,00,2c,\
+  00,2a,00,2e,00,71,00,74,00,29,00,0a,00,2a,00,2e,00,4d,00,4f,00,56,00,3b,00,\
+  2a,00,2e,00,33,00,47,00,50,00,3b,00,2a,00,2e,00,33,00,47,00,32,00,3b,00,2a,\
+  00,2e,00,4d,00,50,00,34,00,3b,00,2a,00,2e,00,4d,00,34,00,56,00,3b,00,2a,00,\
+  2e,00,4d,00,34,00,41,00,3b,00,2a,00,2e,00,51,00,54,00,0a,00,31,00,32,00,39,\
+  00,39,00,31,00,34,00,38,00,36,00,33,00,30,00,0a,00,35,00,38,00,39,00,30,00,\
+  34,00,0a,00,32,00,0a,00,31,00,39,00,38,00,33,00,30,00,30,00,30,00,38,00,38,\
+  00,30,00,0a,00,2a,67,8b,53,29,7f,20,00,59,00,55,00,56,00,20,00,31,00,30,00,\
+  20,00,4d,4f,20,00,34,00,3a,00,32,00,3a,00,32,00,0a,00,38,00,34,00,36,00,36,\
+  00,32,00,34,00,31,00,32,00,31,00,0a,00,2a,67,8b,53,29,7f,20,00,59,00,55,00,\
+  56,00,20,00,38,00,20,00,4d,4f,20,00,34,00,3a,00,32,00,3a,00,32,00,0a,00,31,\
+  00,36,00,36,00,38,00,34,00,34,00,33,00,34,00,34,00,32,00,0a,00,43,00,61,00,\
+  6e,00,6f,00,6e,00,20,00,43,00,69,00,6e,00,65,00,6d,00,61,00,20,00,52,00,41,\
+  00,57,00,20,00,4c,00,69,00,67,00,68,00,74,00,20,00,28,00,2a,00,2e,00,63,00,\
+  72,00,6d,00,29,00,0a,00,2a,00,2e,00,43,00,52,00,4d,00,0a,00,31,00,36,00,36,\
+  00,38,00,34,00,34,00,33,00,34,00,34,00,32,00,0a,00,35,00,38,00,39,00,30,00,\
+  34,00,0a,00,32,00,0a,00,31,00,39,00,38,00,33,00,30,00,30,00,30,00,38,00,38,\
+  00,30,00,0a,00,2a,67,8b,53,29,7f,20,00,59,00,55,00,56,00,20,00,31,00,30,00,\
+  20,00,4d,4f,20,00,34,00,3a,00,32,00,3a,00,32,00,0a,00,38,00,34,00,36,00,36,\
+  00,32,00,34,00,31,00,32,00,31,00,0a,00,2a,67,8b,53,29,7f,20,00,59,00,55,00,\
+  56,00,20,00,38,00,20,00,4d,4f,20,00,34,00,3a,00,32,00,3a,00,32,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="3713795b-abbb-4bb9-ac72-a6acb658f641"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterRED.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterRED.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000001
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000001
+"ImpCanDelete"=dword:00000001
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:0000000a
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,33,00,37,00,39,00,30,00,39,00,31,00,34,00,38,00,38,00,0a,\
+  00,52,00,45,00,44,00,20,00,52,00,33,00,44,00,20,00,52,00,61,00,77,00,20,00,\
+  46,00,69,00,6c,00,65,00,20,00,28,00,2a,00,2e,00,72,00,33,00,64,00,29,00,0a,\
+  00,2a,00,2e,00,52,00,33,00,44,00,0a,00,31,00,33,00,37,00,39,00,30,00,39,00,\
+  31,00,34,00,38,00,38,00,0a,00,35,00,37,00,33,00,35,00,32,00,0a,00,30,00,0a,\
+  00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000001
+"ImpCanValidatePrefs"=dword:00000001
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="4c9fd9ad-97da-4838-b7a9-5cbd2b5965a0"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterWave.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterWave.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000000
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000000
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,34,00,36,00,33,00,38,00,39,00,39,00,37,00,31,00,37,00,0a,\
+  00,e2,6c,62,5f,f3,97,91,98,20,00,28,00,2a,00,2e,00,77,00,61,00,76,00,2c,00,\
+  2a,00,2e,00,62,00,77,00,66,00,2c,00,2a,00,2e,00,61,00,6d,00,62,00,29,00,0a,\
+  00,2a,00,2e,00,57,00,41,00,56,00,3b,00,2a,00,2e,00,42,00,57,00,46,00,3b,00,\
+  2a,00,2e,00,41,00,4d,00,42,00,0a,00,31,00,34,00,36,00,33,00,38,00,39,00,39,\
+  00,37,00,31,00,37,00,0a,00,35,00,38,00,38,00,38,00,34,00,0a,00,30,00,0a,00,\
+  31,00,33,00,38,00,30,00,33,00,33,00,33,00,31,00,30,00,38,00,0a,00,4d,00,42,\
+  00,57,00,46,00,2f,00,52,00,46,00,36,00,34,00,20,00,28,00,2a,00,2e,00,72,00,\
+  66,00,36,00,34,00,29,00,0a,00,2a,00,2e,00,52,00,46,00,36,00,34,00,0a,00,31,\
+  00,33,00,38,00,30,00,33,00,33,00,33,00,31,00,30,00,38,00,0a,00,34,00,39,00,\
+  31,00,35,00,36,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="79cfe3bb-4fb9-4928-a1e3-3b5c061ad185"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterWindowsMedia.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000001
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterWindowsMedia.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000000
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000001
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000002
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000000
+"ImpDesc0"=hex:31,00,34,00,36,00,34,00,36,00,38,00,31,00,37,00,39,00,36,00,0a,\
+  00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,20,00,4d,00,65,00,64,00,69,00,\
+  61,00,20,00,28,00,2a,00,2e,00,77,00,6d,00,76,00,2c,00,2a,00,2e,00,77,00,6d,\
+  00,61,00,2c,00,2a,00,2e,00,61,00,73,00,66,00,2c,00,2a,00,2e,00,61,00,73,00,\
+  78,00,29,00,0a,00,2a,00,2e,00,57,00,4d,00,56,00,3b,00,2a,00,2e,00,57,00,4d,\
+  00,41,00,3b,00,2a,00,2e,00,41,00,53,00,46,00,3b,00,2a,00,2e,00,41,00,53,00,\
+  58,00,0a,00,31,00,34,00,36,00,34,00,36,00,38,00,31,00,37,00,39,00,36,00,0a,\
+  00,35,00,37,00,33,00,35,00,32,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000000
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="00000000-0000-0000-0000-000000000000"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterXDCAMEX.prm]
+"Ignore"=dword:00000000
+"DoNotCache"=dword:00000000
+"DateLow"=dword:5aceadce
+"DateHigh"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\en_US\ImporterXDCAMEX.prm\Importer]
+"ImpDrawType"=dword:00000000
+"ImpCanAsync"=dword:00000001
+"ImpKeepLoaded"=dword:00000001
+"ImpHasSetup"=dword:00000000
+"ImpCanCreate"=dword:00000000
+"ImpCanSave"=dword:00000000
+"ImpCanDelete"=dword:00000000
+"ImpCanCalcSizes"=dword:00000000
+"ImpCanResize"=dword:00000000
+"ImpAddToMenu"=dword:00000000
+"ImpNoFile"=dword:00000000
+"ImpCanDoSubsize"=dword:00000000
+"ImpCanDoContinuousTime"=dword:00000000
+"ImpCanSetupOnDblClick"=dword:00000000
+"ImpPriority"=dword:00000014
+"ImpCanTrim"=dword:00000000
+"ImpAvoidAudioConform"=dword:00000001
+"ImpDesc0"=hex:31,00,32,00,39,00,37,00,31,00,30,00,31,00,38,00,35,00,36,00,0a,\
+  00,58,00,44,00,43,00,41,00,4d,00,2d,00,45,00,58,00,20,00,71,5f,47,72,20,00,\
+  28,00,2a,00,2e,00,6d,00,70,00,34,00,29,00,0a,00,2a,00,2e,00,4d,00,50,00,34,\
+  00,0a,00,31,00,32,00,39,00,37,00,31,00,30,00,31,00,38,00,35,00,36,00,0a,00,\
+  35,00,38,00,38,00,38,00,38,00,0a,00,30,00,0a,00
+"ImpHasDescription"=dword:00000001
+"ImpAcceleratorHandler"=""
+"ImpCanCopy"=dword:00000001
+"ImpCanValidatePrefs"=dword:00000000
+"ImpHasPersistentData"=dword:00000000
+"ImpFileInfoVersion"="9475c45a-46fb-4401-987e-40704386620f"
+"Plugin Factory Guid"="ba1058cd-0007-44e4-bf1a-0ef51307b979"
+"HasPipl"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Audition\11.0\PluginCache.64\zh_CN]
+"Version"=dword:00000032
+
+[HKEY_CURRENT_USER\Software\Adobe\Common 12.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Common 12.0\Media Cache]
+"DatabasePath"="C:\\Users\\Su\\AppData\\Roaming\\Adobe\\Common\\"
+"FolderPath"="C:\\Users\\Su\\AppData\\Roaming\\Adobe\\Common\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\CRLog]
+"GUID"="dbfe11ba-79fc-4eb5-b1c2-95a73511896"
+
+[HKEY_CURRENT_USER\Software\Adobe\CSXS.8]
+"LogLevel"="1"
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="2AE61CF73C9838D7F4C388F19C77449"

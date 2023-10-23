@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>BuiltInKeys</key>
+<array>
+<array.type><string/></array.type>
+<string>$$$/AuUI/WorkspaceProvider/Default=Default</string>
+<string>$$$/AuUI/WorkspaceProvider/Classic=Classic</string>
+<string>$$$/AuUI/WorkspaceProvider/EditAudioToVideo=Edit Audio to Video</string>
+<string>$$$/AuUI/WorkspaceProvider/MasteringAndAnalysis=Mastering and Analysis</string>
+<string>$$$/AuUI/WorkspaceProvider/MaximumEditingDualMonitor=Maximum Editing (Dual Monitor)</string>
+<string>$$$/AuUI/WorkspaceProvider/RadioProduction=Radio Production</string>
+<string>$$$/AuUI/WorkspaceProvider/Loudness=Loudness</string>
+<string>$$$/AuUI/WorkspaceProvider/Restoration=Restoration</string>
+<string>$$$/AuUI/WorkspaceProvider/SimpleEditing=Simple Editing</string>
+<string>$$$/AuUI/WorkspaceProvider/EssentialVideoMixing=Essential Video Mixing</string>
+<string>$$$/AuUI/WorkspaceProvider/AdvancedMixing=Advanced Mixing</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>BuiltIns</key>
+<array>
+<array.type><ustring/></array.type>
+</array>
+</prop.pair>
+<prop.pair>
+<key>FilePaths</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>C:\Users\Su\AppData\Roaming\Adobe\Audition\11.0\Workspace\Saved Workspaces\UserWorkspace1.xml</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MainWndPos</key>
+<prop.list>
+<prop.pair>
+<key>MaxPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-1</int>
+<int type='signed' size='32'>-1</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>MinPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>-32000</int>
+<int type='signed' size='32'>-32000</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>NormalPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>426</int>
+<int type='signed' size='32'>187</int>
+<int type='signed' size='32'>2432</int>
+<int type='signed' size='32'>1409</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>ShowCmd</key>
+<int type='signed' size='32'>1</int>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>ModifiedTimes</key>
+<array>
+<array.type><string/></array.type>
+<string>20220923T152502.532856</string>
+</array>
+</prop.pair>
+<prop.pair>
+<key>UserNames</key>
+<array>
+<array.type><ustring/></array.type>
+<ustring>$$$/AuUI/WorkspaceProvider/Default=Default</ustring>
+</array>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceConfigVersion</key>
+<string>1.1</string>
+</prop.pair>
+<prop.pair>
+<key>WorkspaceTypes</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>1</int>
+</array>
+</prop.pair>
+</prop.list>
+</prop.map>

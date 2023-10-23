@@ -1,0 +1,28 @@
+ASLFoundationInitializer	1	5
+AmioLSF	1	5
+AmioMp2	1	5
+AppStateChanged	1	5
+AuLog.Plug-in	1	5
+AuLog.Shutdown	1	5
+AuLog.Startup	1	5
+AuUI.BrowseProviderIconCache	1	5
+BackendInitializer	1	5
+CEPManager	1	5
+DS	1	5
+DisplaySurfaceInitializer	1	5
+Drawbot Direct2D	1	5
+DynamicLink	1	5
+MediaCoreInitializer	1	5
+MediaLayerInitializer	1	5
+OnSectionOpenedStateChanged	1	5
+PQ	1	5
+Player.Process	1	5
+RegistrationServerInitializer	1	5
+SetExtraDelayHelper::UpdateExtraDelay	1	5
+Wasapi initialization	1	5
+Write File	1	5
+XMPMetadata	1	5
+dvaaudiodevice	1	5
+dvascripting	1	5
+dynamiclink	1	5
+windowsmediafoundation	1	5

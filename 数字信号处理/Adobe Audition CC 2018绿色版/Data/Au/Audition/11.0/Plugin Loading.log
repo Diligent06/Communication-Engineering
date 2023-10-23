@@ -1,0 +1,132 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\en_US\
+Scanning for the following file types: *.prm
+
+Scanning D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\en_US and sub-directories
+
+Loading from root path: D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\
+Scanning for the following file types: *.prm
+
+Begin PluginNameList::AddFolder D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterARRIRAW.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterASND.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterAVI.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterDirectShow.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterF65.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterFastMPEG.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterHDBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterLeader.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterMP3.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterMPEG.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterMXF.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterQuickTime.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterRED.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterWave.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\Plug-Ins\Common\ImporterXDCAMEX.prm" 0
+Finished PluginNameList::AddFolder D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common 0
+Scanning D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common and sub-directories
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterAIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterARRIRAW.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterASND.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterAVI.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterDirectShow.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterF65.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterFastMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterHDBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterLeader.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterMP3.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterMXF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterQuickTime.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterRED.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterWave.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterWindowsMedia.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading D:\Su\2022澶т笁涓婅绋媆鏁板瓧淇″彿澶勭悊\Adobe Audition CC 2018缁胯壊鐗圽App\Au\Plug-Ins\Common\ImporterXDCAMEX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+Scanning for the following file types: *.prm
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Scanning C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore and sub-directories
+

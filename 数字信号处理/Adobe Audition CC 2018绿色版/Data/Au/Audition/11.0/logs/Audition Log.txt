@@ -1,0 +1,105 @@
+Log file created: 2022/9/23 21:26:22
+--------------------------------------
+Ticks = 0      <28016> <CrashReporter> <1> Initialization failure
+Ticks = 0      <28016> <CrashReporter> <1> ErrorCode: 1
+Ticks = 15      <28016> <AuLog.Startup> <5> Loading localized Au dictionary...
+Ticks = 125      <28016> <AuLog.Startup> <5> Loading localized Au dictionary completed.
+Ticks = 703      <28016> <AuLog.Startup> <5> Application: Audition
+Ticks = 703      <28016> <AuLog.Startup> <5> Version: 11.1.1
+Ticks = 703      <28016> <AuLog.Startup> <5> Build: 3
+Ticks = 718      <28016> <AuLog.Startup> <5> AuUI initialization sequence started...
+Ticks = 718      <28016> <AuLog.Startup> <5> Initializing Crash Recovery
+Ticks = 718      <28016> <AuLog.Startup> <5> Initializing dvaaudiodsp
+Ticks = 718      <28016> <AuLog.Startup> <5> Initializing AuMediaCoreSupport
+Ticks = 718      <28016> <MediaCoreInitializer> <5> Initializing PRM
+Ticks = 718      <28016> <ASLFoundationInitializer> <5> Initializing ASLFoundation
+Ticks = 718      <26948> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 718      <28016> <RegistrationServerInitializer> <5> Initializing RegistrationServer
+Ticks = 734      <28016> <BackendInitializer> <5> Initializing Backend
+Ticks = 781      <28016> <DynamicLink> <5> Attempting to launch dynamiclinkmanager
+Ticks = 781      <28016> <DynamicLink> <5> D:\Su\2022大三上课程\数字信号处理\Adobe Audition CC 2018绿色版\App\Au\dynamiclinkmanager.exe
+Ticks = 797      <28016> <DynamicLink> <5> Increase wait time to 2
+Ticks = 859      <28016> <MediaLayerInitializer> <5> Initializing SweetPeaSupport
+Ticks = 859      <28016> <MediaLayerInitializer> <5> Initializing ExporterHost
+Ticks = 859      <28016> <MediaLayerInitializer> <5> Initializing ImporterHost
+Ticks = 875      <28016> <MediaLayerInitializer> <5> Initializing VideoRenderer
+Ticks = 875      <28016> <MediaLayerInitializer> <5> Initializing PluginSupport
+Ticks = 922      <28016> <MediaLayerInitializer> <5> Initializing DynamicLinkMedia
+Ticks = 922      <28016> <DisplaySurfaceInitializer> <5> Initializing DisplaySurface
+Ticks = 1015      <28016> <AuLog.Startup> <5> Initializing AuBackEnd
+Ticks = 1062      <28016> <Wasapi initialization> <5> Time =  0.0509821second
+Ticks = 1109      <28016> <AuLog.Startup> <5> Initializing AuApplication
+Ticks = 1109      <28016> <AuLog.Startup> <5> AuApplication initialization sequence started...
+Ticks = 1109      <28016> <AuLog.Startup> <5> Initializing XML Loader
+Ticks = 1109      <28016> <AuLog.Startup> <5> Initializing Application Settings
+Ticks = 1125      <28016> <AuLog.Startup> <5> Intializing dva unit test and console
+Ticks = 1125      <28016> <AuLog.Startup> <5> Initializing Audio Device
+Ticks = 1312      <28016> <AuLog.Startup> <5> Initializing XMP System
+Ticks = 1312      <28016> <AuLog.Startup> <5> Initializing AMIO Host
+Ticks = 1312      <28016> <AuLog.Startup> <5> AMIO Host initialization sequence started...
+Ticks = 1312      <28016> <AuLog.Startup> <5> AMIO Host initialization sequence complete.
+Ticks = 1328      <28016> <AuLog.Startup> <5> Session Host initialization sequence started...
+Ticks = 1328      <28016> <AuLog.Startup> <5> Session Host initialization sequence complete.
+Ticks = 1328      <28016> <AuLog.Startup> <5> Initializing Clipboard Manager
+Ticks = 1328      <28016> <AuLog.Startup> <5> Initializing Preset Manager
+Ticks = 1328      <28016> <AuLog.Startup> <5> Initializing Favorites Manager
+Ticks = 1343      <28016> <AuLog.Startup> <5> Initializing AutoSave Manager
+Ticks = 1343      <28016> <AuLog.Startup> <5> Initializing Essential Sound
+Ticks = 1375      <28016> <AuLog.Startup> <5> AuApplication initialization sequence complete.
+Ticks = 1375      <28016> <AuLog.Startup> <5> Initializing AuCEPSupport
+Ticks = 1375      <28016> <AuLog.Startup> <5> Initializing AsyncQueueManager
+Ticks = 1375      <28016> <AuLog.Startup> <5> Initializing AuUI
+Ticks = 1390      <28016> <AuLog.Startup> <5> Setting up temp directories
+Ticks = 1422      <28016> <AuLog.Startup> <5> AuUI initialization sequence complete.
+Ticks = 1859      <28016> <AuLog.Startup> <5> Initializing AuScripting
+Ticks = 2187      <28016> <AppStateChanged> <5> State=1
+Ticks = 2187      <28016> <AuLog.Startup> <5> Initializing AuCEPSupport
+Ticks = 2218      <28016> <AppStateChanged> <5> State=2
+Ticks = 2218      <28016> <PQ> <5> 5c828b51-9c49-2b4d-be1a-fa0800000039	001BC9F0
+Ticks = 2218      <28016> <PQ> <5> d7289238-dc3b-359c-c597-c64000000023	00011200
+Ticks = 2234      <28016> <PQ> <5> f8d28ddc-15dc-4620-e02e-2a460000001f	02388DF0
+Ticks = 2234      <28016> <PQ> <5> 88f1bf75-a6b6-e1b2-fc99-fba60000003b	0002C5F0
+Ticks = 2234      <28016> <PQ> <5> bc13734a-05de-8855-2d50-d4110000003b	000997F0
+Ticks = 2234      <28016> <PQ> <5> 21a04f24-65b8-9fc7-cfeb-ad7e0000002b	0000C7F0
+Ticks = 2234      <28016> <PQ> <5> 867811aa-3904-0534-8ed6-6da400000039	000237F0
+Ticks = 7123468      <28016> <AppStateChanged> <5> State=3
+Ticks = 7123531      <28016> <AppStateChanged> <5> State=4
+Ticks = 7123531      <28016> <AppStateChanged> <5> State=5
+Ticks = 7123718      <28016> <AuLog.Shutdown> <5> AuUI termination sequence started...
+Ticks = 7123718      <28016> <AuLog.Shutdown> <5> Writing to Crash Recovery Folder: C:\Users\Su\AppData\Roaming\Adobe\Audition\11.0\d82e82e6-c1ba-4e4f-8483-1a1f4dfd86d7
+Ticks = 7123718      <28016> <AuLog.Shutdown> <5> Terminating AuCEPSupport
+Ticks = 7123718      <28016> <AuLog.Shutdown> <5> Terminating AuScripting
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating AuUI
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating AuApplication
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> AuApplication termination sequence started...
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating dva unit test and console
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Essential Sound
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating AutoSave Manager
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Direct File Playback
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating AMIO Host
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Session Host
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Audio Device
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating XMP System
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Application Settings
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating XML Loader
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Favorites Manager
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Preset Manager
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating Clipboard Manager
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> AuApplication termination sequence complete.
+Ticks = 7123734      <28016> <AuLog.Shutdown> <5> Terminating AuBackEnd
+Ticks = 7123781      <28016> <AuLog.Shutdown> <5> Terminating dvaaudiodsp
+Ticks = 7123781      <28016> <AuLog.Shutdown> <5> Terminating AuMediaCoreSupport
+Ticks = 7123781      <28016> <DisplaySurfaceInitializer> <5> Terminating DisplaySurface
+Ticks = 7123781      <28016> <MediaLayerInitializer> <5> Terminating MediaLayer
+Ticks = 7123781      <28016> <MediaLayerInitializer> <5> Terminating DynamicLinkMedia
+Ticks = 7123781      <28016> <MediaLayerInitializer> <5> Terminating PluginSupport
+Ticks = 7123781      <28016> <MediaLayerInitializer> <5> Terminating VideoRenderer
+Ticks = 7123781      <28016> <MediaLayerInitializer> <5> Terminating ImporterHost
+Ticks = 7123797      <28016> <MediaLayerInitializer> <5> Terminating SweetPeaSupport
+Ticks = 7123797      <28016> <BackendInitializer> <5> Terminating Backend
+Ticks = 7123797      <28016> <ASLFoundationInitializer> <5> Terminating ASLFoundation
+Ticks = 7123797      <28016> <AuLog.Shutdown> <5> Terminating Crash Recovery
+Ticks = 7123797      <28016> <AuLog.Shutdown> <5> AuUI termination sequence complete.
+---------------------------------------
+Log file closed: 2022/9/23 23:25:05
+

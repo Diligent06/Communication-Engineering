@@ -1,0 +1,11 @@
+clear all; clc;
+I = imread('cameraman.tif');
+figure(1);
+title('原图像');
+imshow(I);
+num = size(I);
+J = imresize(I, [num(1)/2, num(2)/2]);
+figure(2);
+title('缩小后的图像');
+imshow(J);
+imwrite(J, 'exp2_1.jpg');

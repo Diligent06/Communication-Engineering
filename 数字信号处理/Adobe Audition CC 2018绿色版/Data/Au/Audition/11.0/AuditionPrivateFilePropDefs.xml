@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<xmp_definitions>
+
+  <xmp_schema prefix='auditionPrivateFileProperties' namespace='http://ns.adobe.com/auditionPrivateFileProperties/1.0/' label='$$$/aui/AuditionPrivateFilePropDefsXML=File Properties' description='$$$/aui/AuditionPrivateFilePropDefsXML_description=Non-editable file information about the active document'>
+
+	  <xmp_property name='filename'				category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/filename_label=Name' 								description='$$$/aui/AuditionPrivateFilePropDefsXML/filename_description=Name of the file'																type='text'/>
+	  <xmp_property name='duration'				category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/duration_label=Duration'					description='$$$/aui/AuditionPrivateFilePropDefsXML/duration_description=Duration of the Audio'															type='text'/>
+	  <xmp_property name='sample_rate'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/sample_rate_label=Sample Rate'					description='$$$/aui/AuditionPrivateFilePropDefsXML/sample_rate_description=The number of audio samples per second'										type='text'/>
+	  <xmp_property name='channels'				category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/channels_label=Channels'							description='$$$/aui/AuditionPrivateFilePropDefsXML/channels_description=The number or type of channels in the document'								type='text'/>
+	  <xmp_property name='bit_depth'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/bit_depth_label=Bit Depth'						description='$$$/aui/AuditionPrivateFilePropDefsXML/bit_depth_description=The number of bits of information for each sample'							type='text'/>
+	  <xmp_property name='source_format'		category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/source_format_label=Source Format'			description='$$$/aui/AuditionPrivateFilePropDefsXML/source_format_description=A description of the way audio is stored in the document'					type='text'/>
+	  <xmp_property name='uncompressed_size'	category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/uncompressed_size_label=Uncompressed Audio Size'	description='$$$/aui/AuditionPrivateFilePropDefsXML/uncompressed_size_description=The uncompressed size of the audio data'									type='text'/>
+	  <xmp_property name='media_type'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/media_type_label=Media Type'						description='$$$/aui/AuditionPrivateFilePropDefsXML/media_type_description=A description of the types of media that the document contains'				type='text'/>	  
+	  <xmp_property name='frame_rate'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/frame_rate_label=Frame Rate'						description='$$$/aui/AuditionPrivateFilePropDefsXML/frame_rate_description=The number of video frames per second'										type='text'/>
+	  <xmp_property name='disk_size'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/disk_size_label=Size on Disk'						description='$$$/aui/AuditionPrivateFilePropDefsXML/disk_size_description=The actual size of the file as it is stored on a disk'						type='text'/>
+	  <xmp_property name='file_path'			category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/file_path_label=File Path'						description='$$$/aui/AuditionPrivateFilePropDefsXML/file_path_description=The absolute path to the file on disk'										type='uri'/>
+	  <xmp_property name='file_modified'		category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/file_modified_label=Modified'						description='$$$/aui/AuditionPrivateFilePropDefsXML/file_modified_description=Date and time the file was last modified'									type='text'/>
+	  <xmp_property name='metadata_modified'	category='internal' label='$$$/aui/AuditionPrivateFilePropDefsXML/metadata_modified_label=XMP Modified'				description='$$$/aui/AuditionPrivateFilePropDefsXML/metadata_modified_description=The date and time any metadata for this resource was last changed'	type='text'/>
+
+  </xmp_schema>
+
+</xmp_definitions>
+

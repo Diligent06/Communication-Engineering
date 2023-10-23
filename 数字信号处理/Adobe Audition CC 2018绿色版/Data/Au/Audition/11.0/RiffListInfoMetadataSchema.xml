@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xmp_definitions>
+	<xmp_schema namespace="http://ns.adobe.com/riff/info/"			prefix="riffinfo"	label="$$$/riff_list_info_schema/schema_label/riffinfo=RIFF Info" 							description="$$$/riff_list_info_schema/schema_description/riffinfo=RIFF Info">
+		<xmp_property category="external" name="name"				type="langalt" 		label="$$$/riff_list_info_schema/property_name/name=Name (INAM)"							description="$$$/riff_list_info_schema/property_description/name=Stores the title of the subject of the file, such as, &quot;Seattle From Above&quot;"/>
+		<xmp_property category="external" name="archivalLocation" 	type="text" 		label="$$$/riff_list_info_schema/property_name/archivalLocation=Archival Location (IARL)"	description="$$$/riff_list_info_schema/property_description/archivalLocation=Indicates where the subject of the file is archived."/>
+		<xmp_property category="external" name="commissioned" 		type="text" 		label="$$$/riff_list_info_schema/property_name/commissioned=Commissioned (ICMS)" 			description="$$$/riff_list_info_schema/property_description/commissioned=Lists the name of the person or organization that commissioned the subject of the file. For example, &quot;Domenico Guardasoni&quot;"/>
+		<xmp_property category="external" name="product" 			type="text" 		label="$$$/riff_list_info_schema/property_name/product=Product (IPRD)" 						description="$$$/riff_list_info_schema/property_description/product=Specifies the name of the title the file was originally intended for, such as &quot;La clemenza di Tito&quot;"/>
+		<xmp_property category="external" name="source" 			type="text" 		label="$$$/riff_list_info_schema/property_name/source=Source (ISRC)" 						description="$$$/riff_list_info_schema/property_description/source=Identifies the name of the person or organization who supplied the original subject of the file. For example, &quot;Macromedia.&quot;"/>
+		<xmp_property category="external" name="technician" 		type="text" 		label="$$$/riff_list_info_schema/property_name/technician=Technician (ITCH)" 				description="$$$/riff_list_info_schema/property_description/technician=Identifies the technician who digitized the subject file. For example, &quot;Galt, John.&quot;"/>	
+</xmp_schema>
+</xmp_definitions>

@@ -1,0 +1,74 @@
+
+<Section label="Root" version="10">
+
+  <Section label="Application">
+    <KeyVal Key="FirstLaunch11.1.1" Type="bool">false</KeyVal>
+    <KeyVal Key="OnboardingUsergroup" Type="int32">1</KeyVal>
+  </Section>
+
+  <Section label="SaveAsLocations">
+    <KeyVal Key="Count" Type="uint32">1</KeyVal>
+    <KeyVal Key="Location1" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1</KeyVal>
+  </Section>
+
+  <Section label="Prefs">
+    <Section label="Dialogs">
+      <Section label="SaveAs">
+        <KeyVal Key="LastSaveAsCopyLocation" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1</KeyVal>
+      </Section>
+    </Section>
+    <Section label="Panels">
+      <Section label="Files">
+        <Section label="Search">
+          <KeyVal Key="Count" Type="uint32">0</KeyVal>
+        </Section>
+      </Section>
+      <Section label="MediaBrowser">
+        <KeyVal Key="ContentsViewRootSpec" Type="string">Drives</KeyVal>
+        <KeyVal Key="OpenedContentsSpecsCount" Type="uint32">0</KeyVal>
+        <KeyVal Key="OpenedNavSpecsCount" Type="uint32">1</KeyVal>
+        <Section label="OpenedNavSpecs">
+          <KeyVal Key="Spec1" Type="string">Drives</KeyVal>
+        </Section>
+      </Section>
+      <Section label="Markers">
+        <Section label="Search">
+          <KeyVal Key="Count" Type="uint32">0</KeyVal>
+        </Section>
+      </Section>
+    </Section>
+  </Section>
+
+  <Section label="OpenRecent">
+    <KeyVal Key="FileCount" Type="uint32">4</KeyVal>
+    <Section label="RecentFile1">
+      <KeyVal Key="DocumentTypeID" Type="string">fedbec07-2af0-42cf-98e0-f92b43674525</KeyVal>
+      <KeyVal Key="HandlerID" Type="string">60df8553-00c8-4fd7-8a07-6f25e30ab79c</KeyVal>
+      <KeyVal Key="ImportSettings" Type="string"></KeyVal>
+      <KeyVal Key="MediaTitle" Type="string">exp3_2.wav</KeyVal>
+      <KeyVal Key="Path" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1\exp3_2.wav</KeyVal>
+    </Section>
+    <Section label="RecentFile2">
+      <KeyVal Key="DocumentTypeID" Type="string">fedbec07-2af0-42cf-98e0-f92b43674525</KeyVal>
+      <KeyVal Key="HandlerID" Type="string">60df8553-00c8-4fd7-8a07-6f25e30ab79c</KeyVal>
+      <KeyVal Key="ImportSettings" Type="string"></KeyVal>
+      <KeyVal Key="MediaTitle" Type="string">exp3.wav</KeyVal>
+      <KeyVal Key="Path" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1\exp3.wav</KeyVal>
+    </Section>
+    <Section label="RecentFile3">
+      <KeyVal Key="DocumentTypeID" Type="string">fedbec07-2af0-42cf-98e0-f92b43674525</KeyVal>
+      <KeyVal Key="HandlerID" Type="string">60df8553-00c8-4fd7-8a07-6f25e30ab79c</KeyVal>
+      <KeyVal Key="ImportSettings" Type="string"></KeyVal>
+      <KeyVal Key="MediaTitle" Type="string">weinihao2.wav</KeyVal>
+      <KeyVal Key="Path" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1\weinihao2.wav</KeyVal>
+    </Section>
+    <Section label="RecentFile4">
+      <KeyVal Key="DocumentTypeID" Type="string">fedbec07-2af0-42cf-98e0-f92b43674525</KeyVal>
+      <KeyVal Key="HandlerID" Type="string">60df8553-00c8-4fd7-8a07-6f25e30ab79c</KeyVal>
+      <KeyVal Key="ImportSettings" Type="string"></KeyVal>
+      <KeyVal Key="MediaTitle" Type="string">weinihao.wav</KeyVal>
+      <KeyVal Key="Path" Type="string">D:\Su\2022大三上课程\数字信号处理\实验作业\实验一\homework_1\weinihao.wav</KeyVal>
+    </Section>
+  </Section>
+
+</Section>

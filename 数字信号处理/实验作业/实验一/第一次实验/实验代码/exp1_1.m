@@ -1,0 +1,11 @@
+clear all; clc;
+[y1, fs1] = audioread('weinihao.wav');
+[y2, fs2] = audioread('weinihao2.wav');
+t1 = 0:1/fs1:(length(y1)-1)*(1/fs1);
+t2 = 0:1/fs2:(length(y2)-1)*(1/fs2);
+figure(1);
+plot(t1, y1);xlabel('t'),ylabel('幅度');
+title('喂你好6000Hz');
+figure(2);
+plot(t2, y2);xlabel('t'),ylabel('幅度');
+title('喂你好12000Hz');

@@ -1,0 +1,17 @@
+clear all; clc;
+I = imread('cameraman.tif');
+mask = zeros(size(I));
+size_I = size(I);
+center_x = size_I(1) / 2; center_y = size_I(2) / 2;
+x = 1:size_I(1); y = 1:size_I(2);
+[xx, yy] = meshgrid(y,x);
+mask = sqrt((yy-center_y).^2+(xx-center_x).^2)<=50;
+figure(1);
+imshow(mask);
+res = im2double(I) .* mask;
+figure(2);
+imshow(res);
+%figure(3);
+%h = drawcircle('Center',[size_I(1)/2,size_I(2)/2],'Radius', 50);
+%mask=createMask(h);
+%imshow(mask);

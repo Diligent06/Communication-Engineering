@@ -1,0 +1,12 @@
+clear all; clc;
+load('sunspot.mat');
+N = 288;
+sunspot_k = fft(sunspot, N);
+n = 0:N-1;
+figure();
+subplot(2, 1, 1);
+scatter(n, abs(sunspot_k(:, 1)));
+xlabel('k');ylabel('abs(sunspot_k)');title('太阳黑子第一列数据频谱图');
+subplot(2, 1, 2);
+scatter(n, abs(sunspot_k(:, 2)));
+xlabel('k');ylabel('abs(sunspot_k)');title('太阳黑子第二列数据频谱图');

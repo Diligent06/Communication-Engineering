@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>Workspace</key>
+<prop.list>
+<prop.pair>
+<key>Switcher</key>
+<string>{&quot;alwaysConfirmDoubleClickWorkspaceReset&quot;:true,&quot;hidden&quot;:[],&quot;overflow&quot;:[&quot;基本视频混音&quot;,&quot;高级混音&quot;,&quot;简单编辑&quot;,&quot;母带处理与分析&quot;,&quot;响度&quot;,&quot;还原&quot;,&quot;传统&quot;,&quot;最大编辑（双监视器）&quot;],&quot;shown&quot;:[&quot;默认&quot;,&quot;编辑音频到视频&quot;,&quot;无线电作品&quot;],&quot;switcherwidth&quot;:-1,&quot;version&quot;:&quot;V5&quot;}</string>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>__eXoPrivateData__</key>
+<prop.list>
+<prop.pair>
+<key>sLastSetWorkspace</key>
+<ustring>默认</ustring>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.map>

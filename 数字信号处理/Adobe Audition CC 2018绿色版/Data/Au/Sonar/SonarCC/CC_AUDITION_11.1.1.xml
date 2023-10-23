@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sonar time="09-23-2022 15:51:06" version="1.0" enabled="true">
+<product family="CC" name="AUDITION" version="11.1.1" build="3" prerelease="false">
+<policy select="Undefined"/>
+<usage_time session_begin_time="09-23-2022 21:26:24" session_end_time="09-23-2022 21:26:24" session_usage_time="0" total_time="0"/>
+<launch first_time="09-23-2022 15:51:06" last_time="09-23-2022 21:26:24" count="2"/>
+<cancel last_time="" count="0"/>
+<submit last_time="" count="0"/>
+<crash time=""/>
+<dialog_crash count="0"/>
+</product>
+</sonar>

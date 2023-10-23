@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xmp_definitions>
+	<xmp_schema prefix='AEScart' namespace='http://ns.adobe.com/aes/cart/' label='$$$/AEScart/labels/AESCartChunk=AES CART' description='$$$/AEScart/descriptions/AESCartChunk=Radio Traffic Data'>
+		<xmp_property name='Version'	type='text'	category='internal'	label='$$$/AEScart/labels/Version=Version'	description='$$$/AEScart/descriptions/Version=A 4-character ASCII numeric string giving the version of the cart data structure, particularly the contents and usage of the reserved area. The first two numbers shall give the major release level (with leading 0) from 00 to 99 and the last two shall give the revision level (with leading 0) in the range of 00 to 99.'/>
+		<xmp_property name='Title'		type='text'	category='external' label='$$$/AEScart/labels/Title=Title'		description='$$$/AEScart/descriptions/Title=An ASCII string, 64-characters or less, representing the title of the cut. The title should be a descriptive summary of the audio contents of the file, and may be used as an entry into a table of contents, and so on. Applications that do not support a 64-character title may truncate the field as needed.'/>
+		<xmp_property name='Artist'		type='text'	category='external' label='$$$/AEScart/labels/Artist=Artist'	description='$$$/AEScart/descriptions/Artist=An ASCII string, 64-characters or less, holding the artist or creator name for the audio cut.'/>
+		<xmp_property name='CutID'		type='text'	category='external' label='$$$/AEScart/labels/CutID=Cut ID'		description='$$$/AEScart/descriptions/CutID=An ASCII string, 64-characters or less, representing the cut number, or unique cut key. The string shall be left justified. Some consumer systems can have restricted cut number lengths or allowable character set. These applications should provide some means of synthesizing a usable cut identifier if it has such restrictions.'/>
+		<xmp_property name='ClientID'	type='text'	category='external' label='$$$/AEScart/labels/ClientID=Client ID'	description='$$$/AEScart/descriptions/ClientID=An ASCII string, 64-characters or less, holding a client or customer identification or name.'/>
+		<xmp_property name="Category"	type="openchoice"	category="external"	element_type="text"	label="$$$/AEScart/labels/Category=Category"	description="$$$/AEScart/descriptions/Category=Category ID, PSA, NEWS, etc">
+		      <xmp_choice raw_value="ALL"	label="$$$/AEScart/category_name/ALL=All"/>
+			  <xmp_choice raw_value="BED"	label="$$$/AEScart/category_name/BED=Beds"/>
+			  <xmp_choice raw_value="BIT"	label="$$$/AEScart/category_name/BIT=Sound Bits"/>
+			  <xmp_choice raw_value="COM"	label="$$$/AEScart/category_name/COM=Commericals"/>
+			  <xmp_choice raw_value="CON"	label="$$$/AEScart/category_name/CON=Contests"/>
+			  <xmp_choice raw_value="DAY"	label="$$$/AEScart/category_name/DAY=Daily Play Lists"/>
+			  <xmp_choice raw_value="EB"	label="$$$/AEScart/category_name/EB=Emergency Broadcast"/>
+			  <xmp_choice raw_value="EFX"	label="$$$/AEScart/category_name/EFX=Sound Effects"/>
+			  <xmp_choice raw_value="FIL"	label="$$$/AEScart/category_name/FIL=Fillers"/>
+			  <xmp_choice raw_value="ID" 	label="$$$/AEScart/category_name/ID=Station ID"/>
+			  <xmp_choice raw_value="INT"	label="$$$/AEScart/category_name/INT=Intros"/>
+			  <xmp_choice raw_value="JIN"	label="$$$/AEScart/category_name/JIN=Jingles"/>
+			  <xmp_choice raw_value="LIN"	label="$$$/AEScart/category_name/LIN=Liners"/>
+			  <xmp_choice raw_value="LOG"	label="$$$/AEScart/category_name/LOG=Logos"/>
+			  <xmp_choice raw_value="MAG"	label="$$$/AEScart/category_name/MAG=Magic Call"/>
+			  <xmp_choice raw_value="MUS"	label="$$$/AEScart/category_name/MUS=Music"/>
+			  <xmp_choice raw_value="NET"	label="$$$/AEScart/category_name/NET=Network Delay"/>
+			  <xmp_choice raw_value="NEW"	label="$$$/AEScart/category_name/NEW=News"/>
+			  <xmp_choice raw_value="PRO"	label="$$$/AEScart/category_name/PRO=Promos"/>
+			  <xmp_choice raw_value="PSA"	label="$$$/AEScart/category_name/PSA=Public Service Announcements"/>
+			  <xmp_choice raw_value="SEG"	label="$$$/AEScart/category_name/SEG=Segues"/>
+			  <xmp_choice raw_value="SHW"	label="$$$/AEScart/category_name/SHW=Shows"/>
+			  <xmp_choice raw_value="SPO"	label="$$$/AEScart/category_name/SPO=Spots"/>
+			  <xmp_choice raw_value="SPR"	label="$$$/AEScart/category_name/SPR=Sports"/>
+			  <xmp_choice raw_value="STG"	label="$$$/AEScart/category_name/STG=Stagers"/>
+			  <xmp_choice raw_value="STK"	label="$$$/AEScart/category_name/STK=Announcer Stack"/>
+			  <xmp_choice raw_value="SWP"	label="$$$/AEScart/category_name/SWP=Sweeps"/>
+			  <xmp_choice raw_value="TST"	label="$$$/AEScart/category_name/TST=Test Tones"/>
+			  <xmp_choice raw_value="TMP"	label="$$$/AEScart/category_name/TMP=Temporary"/>
+		</xmp_property>
+		<xmp_property name='Classification'	type='text'	category='external' label='$$$/AEScart/labels/Classification=Classification'	description='$$$/AEScart/descriptions/Classification=An ASCII string, 64-characters or less, holding a classification key. This key can be used for general classification, selection or sorting based on language, locale or other similar applications.'/>
+		<xmp_property name='OutCue'		type='text'	category='external' label='$$$/AEScart/labels/OutCue=Out Cue'	description='$$$/AEScart/descriptions/OutCue=An ASCII string, 64-characters or less, holding the optional out cue phrase to be displayed when the cut is being played. This shall be a user readable cue string.'/>
+		<xmp_property name='StartDate'	type='text'	category='external' label='$$$/AEScart/labels/StartDate=Start Date'	description='$$$/AEScart/descriptions/StartDate=An ASCII date string, 10 characters, of the form YYYY-MM-DD, such as 1998-12-25, holding the start date. Year (YYYY) shall be defined as 0000 to 9999. Month (MM) shall be defined as 01 to 12. Day (DD) shall be defined as 01 to 28, 29, 30 or 31 as applicable. The separator between date fields shall be a hyphen, (-). Note: This format complies with ISO 8601 and is compatible with other dates in BWF files. To signify an immediate start date, applications shall use 1900-01-01.'/>
+		<xmp_property name='StartTime'	type='text'	category='external' label='$$$/AEScart/labels/StartTime=Start Time'	description='$$$/AEScart/descriptions/StartTime=An ASCII time string, 8 characters, of the form hh:mm:ss, such as 12:31:45, representing the 24-hour time-of-day for the start time on the assigned StartDate. Hour (hh) shall be defined as 00 to 23. Minutes (mm) and seconds (ss) shall be defined as 00 to 59. The separator between time fields shall be a colon, (:).If blank, applications shall assume a start time of 00:00:00.'/>
+		<xmp_property name='EndDate'	type='text'	category='external' label='$$$/AEScart/labels/EndDate=End Date'	description='$$$/AEScart/descriptions/EndDate=As in start date, but shall indicate the date after which the sequence will no longer be active. If the sequence is to run forever, the date shall be 9999-12-31. There shall be no default for this field.'/>
+		<xmp_property name='EndTime'	type='text'	category='external' label='$$$/AEScart/labels/EndTime=End Time'	description='$$$/AEScart/descriptions/EndTime=This code shall indicate the time of day on the appointed end date after which the sequence becomes inactive. If blank, applications shall assume an end time of 23:59:59.'/>
+		<xmp_property name='ProducerAppID'	type='text'	category='external' label='$$$/AEScart/labels/ProducerAppID=Producer App ID'	description='$$$/AEScart/descriptions/ProducerAppID=An ASCII string, 64 characters or less, containing the vendor name, product name or both of the program or application that produced the WAVE file with this cart chunk.'/>
+		<xmp_property name='ProducerAppVersion'	type='text'	category='external' label='$$$/AEScart/labels/ProducerAppVersion=Producer App Version'	description='$$$/AEScart/descriptions/ProducerAppVersion=An ASCII string, 64 characters or less, containing the version of the program or applications that produced the WAVE file containing the cart chunk. Because this string is informational only, the application may represent the version in any convenient format.'/>
+		<xmp_property name='UserDef'	type='text'	category='external' label='$$$/AEScart/labels/UserDef=User Defined Text'	description='$$$/AEScart/descriptions/UserDef=An ASCII string, 64 characters or less, whose use and contents may be defined by the user of the system.'/>
+		<xmp_property name='LevelReference'	type='integer'	min='-2147483648' max='2147483647' category='external' label='$$$/AEScart/labels/LevelReference=0 dB Reference Level'	description='$$$/AEScart/descriptions/LevelReference=Sample value for 0 dB reference'/>
+		<xmp_property name='PostTimer'	type='seq'	element_type='CartTimer' category='internal' label='$$$/AEScart/labels/PostTimer=Post Timer'	description='$$$/AEScart/descriptions/PostTimer=Eight Timer structures representing time marks. The time units are in sample periods at the sampling frequency of the associated audio data and are be referenced to the first sample of the audio data. Each timer entry also consists of a FOURCC timer usage identifier.'/>
+		<xmp_property name='URL'		type='url'	category='external' label='$$$/AEScart/labels/URL=URL'			description='$$$/AEScart/descriptions/URL=An ASCII string, 1024-characters or less, representing a universal resource locator (URL) referencing or referenced by the audio program. The URL field contents should conform to URL syntax'/>
+		<xmp_property name='TagText'	type='text'	category='external' label='$$$/AEScart/labels/TagText=Tag Text'	description='$$$/AEScart/descriptions/TagText=Non-restricted ASCII characters containing a collection of strings each terminated by &lt;CR&gt;&lt;LF&gt;. This text may be system- or user- defined descriptive text for the sound, such as live tag, script information, descriptive text special instructions, and so on.'/>
+	</xmp_schema>
+	<xmp_type name='CartTimer' label='$$$/AEScart/labels/CartTimer=Timer' description='$$$/AEScart/descriptions/CartTimer=A structure for representing time marks in the AES Cart Chunk within Waveform Audio files.'>
+    	<xmp_field prefix='AEScart' name='Usage' type='text'	namespace='http://ns.adobe.com/aes/cart/'	label='$$$/AEScart/labels/Usage=Usage' description='$$$/AEScart/descriptions/Usage=A FOURCC usage identifier for this timer.'/>
+    	<xmp_field prefix='AEScart' name='Value' type='integer'	namespace='http://ns.adobe.com/aes/cart/'	min='0' max='4294967295'	label='$$$/AEScart/labels/Value=Value' description='$$$/AEScart/descriptions/Value=The audio sample offset of this timer.'/>
+  	</xmp_type>
+</xmp_definitions>

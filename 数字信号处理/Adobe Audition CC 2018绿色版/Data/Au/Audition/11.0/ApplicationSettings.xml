@@ -1,0 +1,582 @@
+
+<Section label="Root" version="32">
+
+  <Section label="Prefs">
+    <Section label="Data">
+      <KeyVal Key="CpuCount" Type="uint32">19</KeyVal>
+    </Section>
+    <Section label="Appearance">
+      <Section label="Presets">
+        <KeyVal Key="ChosenPreset" Type="uint32">0</KeyVal>
+        <KeyVal Key="Count" Type="uint32">17</KeyVal>
+        <Section label="0">
+          <KeyVal Key="Brightness" Type="uint32">0</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.75;0;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.29449999332428;0.949999988079071;0.655024945735931;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.959999978542328;0.959999978542328;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.949999988079071;0.867349982261658;0.674500048160553;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">（默认）</KeyVal>
+        </Section>
+        <Section label="1">
+          <KeyVal Key="Brightness" Type="uint32">13</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.293999999761581;0.953000009059906;0.654999971389771;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.964999973773956;0.964999973773956;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">Adobe 灰度</KeyVal>
+        </Section>
+        <Section label="2">
+          <KeyVal Key="Brightness" Type="uint32">51</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.340999990701675;0.416000008583069;0.705999970436096;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.949000000953674;0.859000027179718;0.910000026226044;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.324999988079071;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.28999999165535;0.379999995231628;0.811999976634979;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">西雅图布鲁斯</KeyVal>
+        </Section>
+        <Section label="3">
+          <KeyVal Key="Brightness" Type="uint32">32</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.075000002980232;0.968999981880188;0.455000013113022;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.949000000953674;0.859000027179718;0.910000026226044;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.426999986171722;0.573000013828278;0.12899999320507;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">隐秘</KeyVal>
+        </Section>
+        <Section label="4">
+          <KeyVal Key="Brightness" Type="uint32">64</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.474999994039536;0.855000019073486;0.995999991893768;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.949000000953674;0.859000027179718;0.910000026226044;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.442999988794327;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.474999994039536;0.957000017166138;0.957000017166138;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">北极冰冻</KeyVal>
+        </Section>
+        <Section label="5">
+          <KeyVal Key="Brightness" Type="uint32">28</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.046999998390675;0.333000004291534;1;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0;0.501999974250793;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">午夜蓝调</KeyVal>
+        </Section>
+        <Section label="6">
+          <KeyVal Key="Brightness" Type="uint32">30</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.45100000500679;0.728999972343445;0.317999988794327;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0;0;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.776000022888184;1;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.611999988555908;0.768999993801117;0.340999990701675;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">悦目动人</KeyVal>
+        </Section>
+        <Section label="7">
+          <KeyVal Key="Brightness" Type="uint32">30</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;0.324999988079071;0.050999999046326;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.74099999666214;0.830999970436096;0.870999991893768;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.168999999761581;0.226999998092651;0.25900000333786;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.936999976634979;0.936999976634979;0.936999976634979;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">Birdfolio 蓝色</KeyVal>
+        </Section>
+        <Section label="8">
+          <KeyVal Key="Brightness" Type="uint32">4</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.804000020027161;1;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">1;0.231000006198883;0.467000007629395;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.321999996900558;0.395999997854233;0.419999986886978;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.936999976634979;0.936999976634979;0.936999976634979;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.019600000232458;0.976000010967255;0.940999984741211;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">电脑高手</KeyVal>
+        </Section>
+        <Section label="9">
+          <KeyVal Key="Brightness" Type="uint32">7</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.819999992847443;0.804000020027161;0.092799998819828;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.569000005722046;0.666999995708466;0.61599999666214;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.097999997437;0.203999996185303;0.254999995231628;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.987999975681305;1;0.961000025272369;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.19200000166893;0.500999987125397;0.712999999523163;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">雾中灯塔</KeyVal>
+        </Section>
+        <Section label="10">
+          <KeyVal Key="Brightness" Type="uint32">0</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.74099999666214;0.949000000953674;0.442999988794327;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.003920000046492;0.634999990463257;0.651000022888184;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.184000000357628;0.160999998450279;0.200000002980232;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.160999998450279;0.851000010967255;0.760999977588654;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;0.651000022888184;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">敌友</KeyVal>
+        </Section>
+        <Section label="11">
+          <KeyVal Key="Brightness" Type="uint32">28</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.501999974250793;0.474999994039536;0.086300000548363;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.882000029087067;0.705999970436096;0.105999998748302;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.501999974250793;0.234999999403954;0.152999997138977;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.773000001907349;0.395999997854233;0.125;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">印第安土地</KeyVal>
+        </Section>
+        <Section label="12">
+          <KeyVal Key="Brightness" Type="uint32">7</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.889999985694885;0.804000020027161;0.64300000667572;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.779999971389771;0.474999994039536;0.400000005960464;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.184000000357628;0.203999996185303;0.231000006198883;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.493999987840652;0.509999990463257;0.477999985218048;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">0.439000010490417;0.187999993562698;0.187999993562698;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">古典</KeyVal>
+        </Section>
+        <Section label="13">
+          <KeyVal Key="Brightness" Type="uint32">34</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.940999984741211;0.375999987125397;0.375999987125397;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.549000024795532;0.745000004768372;0.698000013828278;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.361000001430511;0.293999999761581;0.317999988794327;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.949000000953674;0.921999990940094;0.749000012874603;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">老式贺卡</KeyVal>
+        </Section>
+        <Section label="14">
+          <KeyVal Key="Brightness" Type="uint32">7</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.910000026226044;0.301999986171722;0.35699999332428;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.168999999761581;0.675000011920929;0.709999978542328;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.231000006198883;0.231000006198883;0.231000006198883;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.705999970436096;0.800000011920929;0.725000023841858;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">可视叙述</KeyVal>
+        </Section>
+        <Section label="15">
+          <KeyVal Key="Brightness" Type="uint32">9</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">0.991999983787537;0.455000013113022;0;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.122000001370907;0.541000008583069;0.439000010490417;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0;0.263000011444092;0.344999998807907;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">0.745000004768372;0.859000027179718;0.224000006914139;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;0.882000029087067;0.101999998092651;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">维生素 C</KeyVal>
+        </Section>
+        <Section label="16">
+          <KeyVal Key="Brightness" Type="uint32">38</KeyVal>
+          <KeyVal Key="Color0" Type="ColorRGBA">1;0.522000014781952;0.596000015735626;1</KeyVal>
+          <KeyVal Key="Color1" Type="ColorRGBA">0.787999987602234;0.842999994754791;0.528999984264374;1</KeyVal>
+          <KeyVal Key="Color2" Type="ColorRGBA">0.490000009536743;0.541000008583069;0.180000007152557;1</KeyVal>
+          <KeyVal Key="Color3" Type="ColorRGBA">1;1;1;1</KeyVal>
+          <KeyVal Key="Color4" Type="ColorRGBA">1;0.753000020980835;0.662999987602234;1</KeyVal>
+          <KeyVal Key="Color5" Type="ColorRGBA">0.824000000953674;0.753000020980835;0.587999999523163;1</KeyVal>
+          <KeyVal Key="Color6" Type="ColorRGBA">0.674500048160553;0.949999988079071;0.706641614437103;1</KeyVal>
+          <KeyVal Key="Color7" Type="ColorRGBA">0.29449999332428;0.578550100326538;0.949999988079071;1</KeyVal>
+          <KeyVal Key="ColorCount" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColorName0" Type="string">CTI</KeyVal>
+          <KeyVal Key="ColorName1" Type="string">WaveformForeground</KeyVal>
+          <KeyVal Key="ColorName2" Type="string">WaveformBackground</KeyVal>
+          <KeyVal Key="ColorName3" Type="string">WaveformSelection</KeyVal>
+          <KeyVal Key="ColorName4" Type="string">CueMarker</KeyVal>
+          <KeyVal Key="ColorName5" Type="string">TrackMarker</KeyVal>
+          <KeyVal Key="ColorName6" Type="string">CartMarker</KeyVal>
+          <KeyVal Key="ColorName7" Type="string">SubclipMarker</KeyVal>
+          <KeyVal Key="Highlights" Type="string">{"contrasts":{"focus_indicators":0.5,"interactive_controls":0.5},"version":"V5"}</KeyVal>
+          <KeyVal Key="Name" Type="string">西瓜</KeyVal>
+        </Section>
+      </Section>
+    </Section>
+    <Section label="Multitrack">
+      <KeyVal Key="DefaultClipHue" Type="double">152.999995908147923</KeyVal>
+    </Section>
+    <Section label="Media">
+      <Section label="TempDirs">
+        <KeyVal Key="PrimaryTempPathWin" Type="string">C:\Users\Su\AppData\Local\Temp\Adobe\Audition\11.0\</KeyVal>
+      </Section>
+    </Section>
+    <Section label="Editor">
+      <Section label="Controls">
+        <KeyVal Key="ShowControls" Type="bool">true</KeyVal>
+      </Section>
+    </Section>
+    <Section label="Dialogs">
+      <Section label="SaveSessionAsTemplate">
+        <KeyVal Key="DefaultSessionTemplatesInstalled" Type="bool">true</KeyVal>
+      </Section>
+      <Section label="NewAudioFile">
+        <KeyVal Key="CountExtraSampleRates" Type="uint32">1</KeyVal>
+        <KeyVal Key="CountSampleRates" Type="uint32">13</KeyVal>
+        <KeyVal Key="DefaultBitDepth" Type="uint32">32</KeyVal>
+        <KeyVal Key="DefaultChannelLayout" Type="AudioChannelLayout">100;101</KeyVal>
+        <KeyVal Key="DefaultChannels" Type="uint32">2</KeyVal>
+        <KeyVal Key="DefaultSampleRate" Type="uint32">88200</KeyVal>
+        <KeyVal Key="ExtraSampleRate1" Type="uint32">12000</KeyVal>
+        <KeyVal Key="SampleRate1" Type="uint32">192000</KeyVal>
+        <KeyVal Key="SampleRate10" Type="uint32">16000</KeyVal>
+        <KeyVal Key="SampleRate11" Type="uint32">11025</KeyVal>
+        <KeyVal Key="SampleRate12" Type="uint32">8000</KeyVal>
+        <KeyVal Key="SampleRate13" Type="uint32">6000</KeyVal>
+        <KeyVal Key="SampleRate2" Type="uint32">176400</KeyVal>
+        <KeyVal Key="SampleRate3" Type="uint32">96000</KeyVal>
+        <KeyVal Key="SampleRate4" Type="uint32">88200</KeyVal>
+        <KeyVal Key="SampleRate5" Type="uint32">64000</KeyVal>
+        <KeyVal Key="SampleRate6" Type="uint32">48000</KeyVal>
+        <KeyVal Key="SampleRate7" Type="uint32">44100</KeyVal>
+        <KeyVal Key="SampleRate8" Type="uint32">32000</KeyVal>
+        <KeyVal Key="SampleRate9" Type="uint32">22050</KeyVal>
+      </Section>
+      <Section label="ConvertSampleType">
+        <KeyVal Key="BitDepth1" Type="uint32">8</KeyVal>
+        <KeyVal Key="BitDepth2" Type="uint32">16</KeyVal>
+        <KeyVal Key="BitDepth3" Type="uint32">24</KeyVal>
+        <KeyVal Key="BitDepth4" Type="uint32">32</KeyVal>
+        <KeyVal Key="CountBitDepths" Type="uint32">4</KeyVal>
+        <KeyVal Key="IsBitDepthAdvancedSpinnerOpen" Type="bool">false</KeyVal>
+        <KeyVal Key="IsChannelsAdvancedSpinnerOpen" Type="bool">false</KeyVal>
+        <KeyVal Key="IsSampleRateAdvancedSpinnerOpen" Type="bool">false</KeyVal>
+      </Section>
+      <Section label="SaveAs">
+        <Section label="Wave">
+          <KeyVal Key="ExportFileFormatID" Type="string"></KeyVal>
+          <KeyVal Key="ExportPluginID" Type="string">60df8553-00c8-4fd7-8a07-6f25e30ab79c</KeyVal>
+          <KeyVal Key="Height" Type="int32">497</KeyVal>
+          <KeyVal Key="PosX" Type="int32">902</KeyVal>
+          <KeyVal Key="PosY" Type="int32">724</KeyVal>
+          <KeyVal Key="Width" Type="int32">655</KeyVal>
+        </Section>
+      </Section>
+    </Section>
+    <Section label="Alerts">
+      <KeyVal Key="HasOfferedToImportOldPrefsOrNoneFound" Type="bool">true</KeyVal>
+    </Section>
+    <Section label="HUD">
+      <KeyVal Key="HUDPos" Type="Point32">-1;-1</KeyVal>
+      <KeyVal Key="IsPinned" Type="bool">false</KeyVal>
+    </Section>
+    <Section label="Panels">
+      <Section label="PropertiesAudioFile">
+        <KeyVal Key="InfoSectionID_IsOpen" Type="bool">true</KeyVal>
+        <KeyVal Key="ScrollOffsetYValue" Type="float">0</KeyVal>
+        <KeyVal Key="TimeDisplaySectionID_IsOpen" Type="bool">false</KeyVal>
+      </Section>
+      <Section label="Files">
+        <KeyVal Key="AutoPlayPreview" Type="bool">false</KeyVal>
+        <KeyVal Key="LoopPreview" Type="bool">false</KeyVal>
+        <Section label="Columns">
+          <KeyVal Key="ColumnCount" Type="uint32">12</KeyVal>
+          <KeyVal Key="ColumnID1" Type="uint32">1</KeyVal>
+          <KeyVal Key="ColumnID10" Type="uint32">10</KeyVal>
+          <KeyVal Key="ColumnID11" Type="uint32">11</KeyVal>
+          <KeyVal Key="ColumnID12" Type="uint32">12</KeyVal>
+          <KeyVal Key="ColumnID2" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnID3" Type="uint32">3</KeyVal>
+          <KeyVal Key="ColumnID4" Type="uint32">4</KeyVal>
+          <KeyVal Key="ColumnID5" Type="uint32">5</KeyVal>
+          <KeyVal Key="ColumnID6" Type="uint32">6</KeyVal>
+          <KeyVal Key="ColumnID7" Type="uint32">7</KeyVal>
+          <KeyVal Key="ColumnID8" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColumnID9" Type="uint32">9</KeyVal>
+          <KeyVal Key="ColumnWidth1" Type="float">180</KeyVal>
+          <KeyVal Key="ColumnWidth10" Type="float">219.999999999999972</KeyVal>
+          <KeyVal Key="ColumnWidth11" Type="float">100.000000000000014</KeyVal>
+          <KeyVal Key="ColumnWidth12" Type="float">100.000000000000014</KeyVal>
+          <KeyVal Key="ColumnWidth2" Type="float">40</KeyVal>
+          <KeyVal Key="ColumnWidth3" Type="float">100.000000000000014</KeyVal>
+          <KeyVal Key="ColumnWidth4" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth5" Type="float">60</KeyVal>
+          <KeyVal Key="ColumnWidth6" Type="float">60</KeyVal>
+          <KeyVal Key="ColumnWidth7" Type="float">219.999999999999972</KeyVal>
+          <KeyVal Key="ColumnWidth8" Type="float">80</KeyVal>
+          <KeyVal Key="ColumnWidth9" Type="float">75</KeyVal>
+          <KeyVal Key="IsSortAscending" Type="bool">true</KeyVal>
+          <KeyVal Key="SortColumn" Type="uint32">1</KeyVal>
+        </Section>
+      </Section>
+      <Section label="Favorites">
+        <KeyVal Key="SplitPercentage" Type="float">1</KeyVal>
+        <Section label="FavoritesTree">
+          <KeyVal Key="ColumnCount" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnID1" Type="uint32">1</KeyVal>
+          <KeyVal Key="ColumnID2" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnWidth1" Type="float">160</KeyVal>
+          <KeyVal Key="ColumnWidth2" Type="float">100.000000000000014</KeyVal>
+          <KeyVal Key="IsSortAscending" Type="bool">true</KeyVal>
+          <KeyVal Key="SortColumn" Type="uint32">1</KeyVal>
+        </Section>
+        <Section label="ActionsTree">
+          <KeyVal Key="ColumnCount" Type="uint32">5</KeyVal>
+          <KeyVal Key="ColumnID1" Type="uint32">1</KeyVal>
+          <KeyVal Key="ColumnID2" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnID3" Type="uint32">3</KeyVal>
+          <KeyVal Key="ColumnID4" Type="uint32">4</KeyVal>
+          <KeyVal Key="ColumnID5" Type="uint32">5</KeyVal>
+          <KeyVal Key="ColumnWidth1" Type="float">160</KeyVal>
+          <KeyVal Key="ColumnWidth2" Type="float">160</KeyVal>
+          <KeyVal Key="ColumnWidth3" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth4" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth5" Type="float">160</KeyVal>
+          <KeyVal Key="IsSortAscending" Type="bool">true</KeyVal>
+          <KeyVal Key="SortColumn" Type="uint32">1</KeyVal>
+        </Section>
+      </Section>
+      <Section label="MediaBrowser">
+        <KeyVal Key="AutoPlayPreview" Type="bool">true</KeyVal>
+        <KeyVal Key="FilterByAllSupportedMedia" Type="bool">true</KeyVal>
+        <KeyVal Key="LoopPreview" Type="bool">false</KeyVal>
+        <KeyVal Key="SplitPercentage" Type="float">0.740932166576386</KeyVal>
+        <Section label="FilesystemColumns">
+          <KeyVal Key="ColumnCount" Type="uint32">9</KeyVal>
+          <KeyVal Key="ColumnID1" Type="uint32">1</KeyVal>
+          <KeyVal Key="ColumnID2" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnID3" Type="uint32">3</KeyVal>
+          <KeyVal Key="ColumnID4" Type="uint32">4</KeyVal>
+          <KeyVal Key="ColumnID5" Type="uint32">5</KeyVal>
+          <KeyVal Key="ColumnID6" Type="uint32">6</KeyVal>
+          <KeyVal Key="ColumnID7" Type="uint32">7</KeyVal>
+          <KeyVal Key="ColumnID8" Type="uint32">8</KeyVal>
+          <KeyVal Key="ColumnID9" Type="uint32">9</KeyVal>
+          <KeyVal Key="ColumnWidth1" Type="float">200.000000000000028</KeyVal>
+          <KeyVal Key="ColumnWidth2" Type="float">100.000000000000014</KeyVal>
+          <KeyVal Key="ColumnWidth3" Type="float">70</KeyVal>
+          <KeyVal Key="ColumnWidth4" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth5" Type="float">70</KeyVal>
+          <KeyVal Key="ColumnWidth6" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth7" Type="float">224.999999999999972</KeyVal>
+          <KeyVal Key="ColumnWidth8" Type="float">224.999999999999972</KeyVal>
+          <KeyVal Key="ColumnWidth9" Type="float">219.999999999999972</KeyVal>
+          <KeyVal Key="IsSortAscending" Type="bool">true</KeyVal>
+          <KeyVal Key="SortColumn" Type="uint32">1</KeyVal>
+        </Section>
+      </Section>
+      <Section label="EffectsRack">
+        <KeyVal Key="HideInputOutputMixSection" Type="bool">false</KeyVal>
+      </Section>
+      <Section label="Markers">
+        <KeyVal Key="ShowMarkersOfAllFiles" Type="bool">false</KeyVal>
+        <Section label="Columns">
+          <KeyVal Key="ColumnCount" Type="uint32">6</KeyVal>
+          <KeyVal Key="ColumnID1" Type="uint32">1</KeyVal>
+          <KeyVal Key="ColumnID2" Type="uint32">2</KeyVal>
+          <KeyVal Key="ColumnID3" Type="uint32">3</KeyVal>
+          <KeyVal Key="ColumnID4" Type="uint32">4</KeyVal>
+          <KeyVal Key="ColumnID5" Type="uint32">5</KeyVal>
+          <KeyVal Key="ColumnID6" Type="uint32">6</KeyVal>
+          <KeyVal Key="ColumnWidth1" Type="float">124</KeyVal>
+          <KeyVal Key="ColumnWidth2" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth3" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth4" Type="float">75</KeyVal>
+          <KeyVal Key="ColumnWidth5" Type="float">108.999999999999986</KeyVal>
+          <KeyVal Key="ColumnWidth6" Type="float">200.000000000000028</KeyVal>
+          <KeyVal Key="IsSortAscending" Type="bool">true</KeyVal>
+          <KeyVal Key="SortColumn" Type="uint32">2</KeyVal>
+        </Section>
+      </Section>
+      <Section label="Mixer">
+        <KeyVal Key="IsEQSectionOpen" Type="bool">true</KeyVal>
+        <KeyVal Key="IsEffectsSectionOpen" Type="bool">true</KeyVal>
+        <KeyVal Key="IsFaderSectionOpen" Type="bool">true</KeyVal>
+        <KeyVal Key="IsSendsSectionOpen" Type="bool">true</KeyVal>
+      </Section>
+    </Section>
+  </Section>
+
+</Section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<pluginlist version="4.0.0">
+	<plugin filename="mda Combo.dll"/>
+	<plugin filename="JCM900.dll" uniqueid="12345678" version="1234"/>
+	<plugin filename="Xhipsynth_beta.dll" uniqueid="2020108656" version="2300"/>
+	<plugin filename="HouseEffect.vst" uniqueid="3091950960" version="2400"/>
+	<plugin filename="BeatCounter.vst" uniqueid="1114915700" version="2400"/>
+	<plugin filename="Redline Monitor.vst" uniqueid="1752199968" version="2400"/>
+</pluginlist>

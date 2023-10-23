@@ -1,0 +1,47 @@
+%% 读取图像
+close all;
+clc;
+clear all;
+img = imread('../image/Fig0507(a)(ckt-board-orig).tif');
+img = im2double(img);
+figure;
+subplot(1,2,1);
+imshow(img);
+title('original image');
+
+%% 模糊图像
+PSF = fspecial('motion', 15, 45);
+img1 = imfilter(img, PSF);
+subplot(1,2,2);
+imshow(img1);
+title('filtered image');
+%% 向模糊图像分别添加均值为0，方差分别为0.001，0.01，0.1的高斯噪声
+noised1 = imnoise(img1, "gaussian", 0, 0.001);
+noised2 = imnoise(img1, "gaussian", 0, 0.01);
+noised3 = imnoise(img1, "gaussian", 0, 0.1);
+figure;
+subplot(1, 3, 1);
+imshow(noised1);
+title('加入高斯噪声均值为0，方差为0.001');
+subplot(1, 3, 2);
+imshow(noised2);
+title('加入高斯噪声均值为0，方差为0.01');
+subplot(1, 3, 3);
+imshow(noised3);
+title('加入高斯噪声均值为0，方差为0.1');
+%% 参数维纳滤波，NSR直接给0
+% Specifying 0 for the NSR is equivalent to creating an ideal inverse filter.
+% img3 = deconvwnr(img2, PSF, 0.012);
+img2 = deconvwnr(noised1, PSF, 0.00012);
+img3 = deconvwnr(noised2, PSF, 0.00012);
+img4 = deconvwnr(noised3, PSF, 0.00012);
+figure;
+subplot(1, 3, 1);
+imshow(img2);
+title('方差为0.001复原');
+subplot(1, 3, 2);
+imshow(img3);
+title('方差为0.01复原');
+subplot(1, 3, 3);
+imshow(img4);
+title('方差为0.1复原');

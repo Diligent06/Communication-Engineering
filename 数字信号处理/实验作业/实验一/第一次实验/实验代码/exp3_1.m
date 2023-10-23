@@ -1,0 +1,14 @@
+clear all; clc;
+[back, fs1] = audioread('background.wav');
+[audio, fs1] = audioread('exp3.wav');
+figure(1);
+t = 0:1/fs1:(length(audio)-1)*(1/fs1);
+plot(t, audio), xlabel('t'), ylabel('幅度');
+title('采集的音频44100Hz');
+audio_f = audio + 0.5*back(1:length(audio),:);
+audiowrite('exp3_result.wav', audio_f, fs1);
+sound(audio_f, fs1);
+figure(2);
+plot(t, audio_f);
+xlabel('t'), ylabel('幅度');
+title('加入背景音乐后的采集音频');
